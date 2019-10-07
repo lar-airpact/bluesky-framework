@@ -25,10 +25,11 @@ matrix:
             - pip install pandas
           script:
             - pwd
-            - cd test/mvp-output
+            - cd testing
             - echo "The pwd is now $(pwd)"
             - echo "Gathering data to test"
             - docker run -it --mount type=bind,source="$(pwd)",target=/bluesky/dist/bluesky/output/ larairpact/bluesky-framework ./bluesky -d 2019090100Z -K no-archive defaultLAR_SFonly
+            # rename output folder to match test schema
             - mv 2019090100.1 newinput
             - echo "testing data output"
             - python3 test.py
