@@ -10,7 +10,7 @@ matrix:
             - docker
           script: 
             - pwd
-            - cd test/mvp-output
+            - cd testing
             - echo "The pwd is now $(pwd)"
             - docker run -it larairpact/bluesky-framework ./bluesky -h
             - echo "bluesky pulls/builds successfully"
