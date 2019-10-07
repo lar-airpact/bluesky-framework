@@ -1,0 +1,34 @@
+2019-09-14 23:40 BlueSky              SUMMARY  BlueSky Framework version 3.5.1 (rev 39130)
+2019-09-14 23:40 BlueSky              INFO     Using OUTPUT_DIR: /opt/bluesky/bluesky_3.5.1/output/2019091500.1/
+2019-09-14 23:40 BlueSky              INFO     Using WORK_DIR: /opt/bluesky/bluesky_3.5.1/working/2019091500.1/
+2019-09-14 23:40 FillDefaultData      WARNING  Disconnecting Output[FireInformation]: MM5LocalMet.fires from Input[FireInformation]: FillDefaultData.fires
+2019-09-14 23:40 BlueSky              SUMMARY  Emissions period: 20190914 00Z to 20190918 00Z
+2019-09-14 23:40 BlueSky              SUMMARY  Dispersion period: 20190915 00Z to 20190918 00Z
+2019-09-14 23:40 SmartFire2           INFO     Downloading fire data for 2019-09-14 from SmartFire2...
+2019-09-14 23:40 SmartFire2           INFO     Downloading fire data for 2019-09-15 from SmartFire2...
+2019-09-14 23:40 SmartFire2           INFO     Downloading fire data for 2019-09-16 from SmartFire2...
+2019-09-14 23:40 SmartFire2           INFO     Downloading fire data for 2019-09-17 from SmartFire2...
+2019-09-14 23:40 SmartFire2           INFO     Successfully downloaded data for 677 fire locations
+2019-09-14 23:40 FillDefaultData      SUMMARY  Provide defaults for missing input fields v3.5.1
+2019-09-14 23:40 FillDefaultData      INFO     Earliest fire in data set ignites 24 hours before analysis period
+2019-09-14 23:40 DefaultFuelMoisture  SUMMARY  Provide default fuel moisture information v3.5.1
+2019-09-14 23:40 GrowthSplit          SUMMARY  FireTypeSplitter from package BlueSky v3.5.1
+2019-09-14 23:40 WildfireGrowth       SUMMARY  Persistence from package BlueSky v3.5.1
+2019-09-14 23:40 WildfireGrowth       INFO     Persistence model created 156 new fire records
+2019-09-14 23:40 PrescribedFireGrowth SUMMARY  Persistence from package BlueSky v3.5.1
+2019-09-14 23:40 PrescribedFireGrowth INFO     Persistence model created 2552 new fire records
+2019-09-14 23:40 OtherFireGrowth      SUMMARY  NoGrowth from package BlueSky v3.5.1
+2019-09-14 23:40 ConsolidateGrowth    SUMMARY  ConsolidateFires from package BlueSky v3.5.1
+2019-09-14 23:40 FCCS                 SUMMARY  FCCS Fuel Loading Module v2
+2019-09-14 23:40 FCCS                 INFO     Successfully added fuel loadings for 3100 of 3385 input fires
+2019-09-14 23:40 ConsumptionSplit     SUMMARY  FireTypeSplitter from package BlueSky v3.5.1
+2019-09-14 23:40 WildfireConsumption  SUMMARY  NoConsumption from package BlueSky v3.5.1
+2019-09-14 23:40 PrescribedFireConsumption SUMMARY  NoConsumption from package BlueSky v3.5.1
+2019-09-14 23:40 OtherFireConsumption SUMMARY  NoConsumption from package BlueSky v3.5.1
+2019-09-14 23:40 ConsolidateConsumption SUMMARY  ConsolidateFires from package BlueSky v3.5.1
+2019-09-14 23:41 NoTimeProfile        SUMMARY  NoTimeProfile from package BlueSky v3.5.1
+2019-09-14 23:41 NoEmissions          SUMMARY  NoEmissions from package BlueSky v3.5.1
+2019-09-14 23:41 NoPlumeRise          SUMMARY  NoPlumeRise from package BlueSky v3.5.1
+2019-09-14 23:41 StandardFiles        INFO     Writing fire locations to standard format file
+2019-09-14 23:41 StandardFiles        INFO     Successfully wrote 3385 fire locations
+2019-09-14 23:41 BlueSky              SUMMARY  Completed in 1 minute 5.63 seconds

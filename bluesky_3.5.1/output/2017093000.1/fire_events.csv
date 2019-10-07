@@ -1,0 +1,1074 @@
+id,event_name,total_area,total_heat,total_pm25,total_pm10,total_pm,total_co,total_co2,total_ch4,total_nmhc,total_nox,total_nh3,total_so2,total_voc,total_bc,total_h2,total_nmoc,total_no,total_no2,total_oc,total_tpc,total_tpm
+SF11E1787731,"Unnamed fire in Division No. 19, Ab, Canada",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1789784,"Unnamed fire in Tulare County, California",8279.999979435763,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1789827,"Unnamed fire in Lincoln County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1789905,"Unnamed fire in Lincoln County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1791309,"Unnamed fire in Dodge County, Georgia",1399.9999965229545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1791330,"Unnamed fire in Gulf County, Florida",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1791363,"Unnamed fire in Mississippi County, Missouri",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1791371,"Unnamed fire in Tulare County, California",5249.999986961079,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1791421,"Unnamed fire in Jefferson County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1791436,"Unnamed fire in Tulare County, California",229.9999994287711,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1791439,"Unnamed fire in Division No. 11, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1791446,"Unnamed fire in Citrus County, Florida",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1791743,"Unnamed fire in Phillips County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1792762,"Unnamed fire in Idaho County, Idaho",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1792806,"Unnamed fire in Tuolumne County, California",873.9999978293301,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1792856,"Unnamed fire in Fresno County, California",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1792878,"Unnamed fire in Jackson County, Florida",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1792883,"Unnamed fire in Owyhee County, Idaho",6209.999984576822,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1792962,"Unnamed fire in Ashley County, Arkansas",1399.9999965229545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1792976,"Unnamed fire in Craighead County, Arkansas",1899.9999952811525,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1793239,"Unnamed fire in Stoddard County, Missouri",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1793543,"Unnamed fire in Division No. 17, Ab, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794362,"Unnamed fire in Chelan County, Washington",1517.9999962298891,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794441,"Unnamed fire in Fraser-fort George Regional District, Bc, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794562,"Unnamed fire in Adams County, Idaho",229.9999994287711,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794625,"Unnamed fire in Fraser-fort George Regional District, Bc, Canada",499.9999987581981,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794645,"Unnamed fire in Prairie County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794671,"Unnamed fire in Mcpherson County, Kansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794673,"Unnamed fire in Division No. 17, Ab, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794677,"Unnamed fire in Kootenay Boundary Regional District, Bc, Canada",11199.99997218363,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794701,"Unnamed fire in Kootenai County, Idaho",459.9999988575422,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794708,"Unnamed fire in Trinity County, Texas",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794711,"Unnamed fire in Colquitt County, Georgia",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794721,"Unnamed fire in Division No. 20, Mb, Canada",1499.9999962745937,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794724,"Unnamed fire in Santa Rosa County, Florida",1999.9999950327915,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794774,"Unnamed fire in Whitman County, Washington",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794784,"Unnamed fire in East Kootenay Regional District, Bc, Canada",3399.9999915557464,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794787,"Unnamed fire in Madison County, Florida",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794796,"Unnamed fire in Division No.  5, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794801,"Unnamed fire in Division No.  6, Sk, Canada",1899.999995281152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794812,"Unnamed fire in Avoyelles County, Louisiana",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794826,"Unnamed fire in Division No. 10, Sk, Canada",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794829,"Unnamed fire in Kootenai County, Idaho",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794842,"Unnamed fire in Tuolumne County, California",1563.9999961156436,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794851,"Unnamed fire in Lincoln County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794867,"Unnamed fire in Noxubee County, Mississippi",609.9999984850016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794874,"Unnamed fire in Division No.  6, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794884,"Unnamed fire in Monroe County, Alabama",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794912,"Unnamed fire in Division No.  9, Sk, Canada",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794914,"Unnamed fire in Idaho County, Idaho",1459.9999963739383,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1794948,"Unnamed fire in Burke County, Georgia",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1795101,"Unnamed fire in Pemiscot County, Missouri",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1795329,"Unnamed fire in Division No.  9, Sk, Canada",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1796708,"Unnamed fire in Pend Oreille County, Washington",229.9999994287711,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1796737,"Unnamed fire in Idaho County, Idaho",1609.9999960013977,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1796752,"Unnamed fire in Grant County, Oregon",827.9999979435761,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1796822,"Unnamed fire in Baker County, Oregon",229.9999994287711,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1796834,"Unnamed fire in Crook County, Oregon",1701.9999957729062,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1796856,"Unnamed fire in Butte County, California",459.9999988575422,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1796896,"Unnamed fire in Houston County, Texas",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1796907,"Unnamed fire in Fraser-fort George Regional District, Bc, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1796958,"Unnamed fire in Thompson-nicola Regional District, Bc, Canada",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1796964,"Unnamed fire in Plumas County, California",2575.9999936022364,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1796980,"Unnamed fire in Fraser-fort George Regional District, Bc, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797023,"Unnamed fire in East Kootenay Regional District, Bc, Canada",4799.999988078702,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797058,"Unnamed fire in Okanogan County, Washington",3449.9999914315667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797149,"Unnamed fire in Franklin County, Louisiana",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797154,"Unnamed fire in Marion County, Mississippi",1049.9999973922158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797156,"Unnamed fire in Division No.  9, Sk, Canada",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797171,"Unnamed fire in Attala County, Mississippi",1309.9999967464785,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797178,"Unnamed fire in Latah County, Idaho",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797184,"Unnamed fire in Division No. 10, Sk, Canada",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797186,"Unnamed fire in Division No.  5, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797187,"Unnamed fire in Union County, Oregon",229.9999994287711,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797189,"Unnamed fire in Pierce County, North Dakota",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797191,"Unnamed fire in Division No. 11, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797193,"Unnamed fire in Division No.  6, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797197,"Unnamed fire in Pemiscot County, Missouri",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797208,"Unnamed fire in Division No. 20, Mb, Canada",3499.9999913073866,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797214,"Unnamed fire in Division No. 11, Sk, Canada",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797217,"Unnamed fire in Division No. 11, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797226,"Unnamed fire in Independence County, Arkansas",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797227,"Unnamed fire in Cross County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797247,"Unnamed fire in Division No.  9, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797250,"Unnamed fire in Wayne County, Georgia",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797258,"Unnamed fire in Chicot County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797259,"Unnamed fire in Division No. 20, Mb, Canada",1499.9999962745937,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797262,"Unnamed fire in Crittenden County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797263,"Unnamed fire in Mono County, California",1149.999997143856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797281,"Unnamed fire in Chouteau County, Montana",1699.9999957778732,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797286,"Unnamed fire in Division No. 17, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797296,"Unnamed fire in Cross County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797302,"Unnamed fire in Desha County, Arkansas",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797306,"Unnamed fire in Idaho County, Idaho",643.9999984005592,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797318,"Unnamed fire in Division No. 16, Mb, Canada",1899.999995281152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797328,"Unnamed fire in Mississippi County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797333,"Unnamed fire in Clay County, Alabama",2195.999994546006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797334,"Unnamed fire in Division No.  9, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797339,"Unnamed fire in Division No.  9, Sk, Canada",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797352,"Unnamed fire in Choctaw County, Alabama",1049.9999973922156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797367,"Unnamed fire in Division No.  5, Sk, Canada",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797377,"Unnamed fire in St. Francis County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797383,"Unnamed fire in Division No.  5, Sk, Canada",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797389,"Unnamed fire in Greene County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797400,"Unnamed fire in Division No.  6, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797409,"Unnamed fire in Arkansas County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797414,"Unnamed fire in Idaho County, Idaho",229.9999994287711,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797421,"Unnamed fire in Division No.  6, Sk, Canada",4099.999989817224,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797424,"Unnamed fire in Division No.  6, Sk, Canada",1299.9999967713147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797434,"Unnamed fire in Arkansas County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797440,"Unnamed fire in Morehouse County, Louisiana",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797445,"Unnamed fire in Jackson County, Arkansas",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797451,"Unnamed fire in Nassau County, Florida",699.9999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797458,"Unnamed fire in Division No.  9, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797460,"Unnamed fire in Dickinson County, Kansas",1499.999996274594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797464,"Unnamed fire in Liberty County, Florida",1049.9999973922156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797468,"Unnamed fire in Dunklin County, Missouri",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797469,"Unnamed fire in Division No.  5, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797477,"Unnamed fire in Division No.  9, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797484,"Unnamed fire in Cloud County, Kansas",749.999998137297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797500,"Unnamed fire in Division No. 10, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797509,"Unnamed fire in Walla Walla County, Washington",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797512,"Unnamed fire in Tunica County, Mississippi",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797517,"Unnamed fire in Stoddard County, Missouri",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797521,"Unnamed fire in Lee County, Arkansas",1499.9999962745942,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797522,"Unnamed fire in Mississippi County, Missouri",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797554,"Unnamed fire in Division No.  5, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797555,"Unnamed fire in Franklin County, Louisiana",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797561,"Unnamed fire in Clay County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797564,"Unnamed fire in Division No.  6, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797572,"Unnamed fire in Tunica County, Mississippi",1899.9999952811522,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797574,"Unnamed fire in Arkansas County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797579,"Unnamed fire in Division No.  9, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797588,"Unnamed fire in Hempstead County, Arkansas",499.999998758198,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797596,"Unnamed fire in Madison County, Louisiana",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797597,"Unnamed fire in Crittenden County, Arkansas",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797701,"Unnamed fire in Benewah County, Idaho",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797808,"Unnamed fire in Division No. 11, Sk, Canada",1299.9999967713147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797885,"Unnamed fire in Division No.  9, Sk, Canada",1099.9999972680357,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797891,"Unnamed fire in Division No.  9, Sk, Canada",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797905,"Unnamed fire in Nez Perce County, Idaho",3729.999990736158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1797973,"Unnamed fire in Woodruff County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1798002,"Unnamed fire in Crittenden County, Arkansas",1599.9999960262332,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1798028,"Unnamed fire in Lake County, Tennessee",2499.9999937909897,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1798721,"Unnamed fire in Division No. 17, Ab, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799242,"Unnamed fire in Fresno County, California",3299.9999918041067,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799552,"Unnamed fire in Division No.  3, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799553,"Unnamed fire in Clarke County, Mississippi",1219.9999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799554,"Unnamed fire in Division No. 17, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799555,"Unnamed fire in Division No.  8, Ab, Canada",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799556,"Unnamed fire in Etchojoa, Sonora, Mexico",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799557,"Unnamed fire in Crittenden County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799558,"Unnamed fire in Ashley County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799559,"Unnamed fire in Clearwater County, Idaho",229.9999994287711,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799560,"Unnamed fire in Division No. 20, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799561,"Unnamed fire in Division No. 17, Ab, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799562,"Unnamed fire in Hermosillo, Sonora, Mexico",1399.999996522954,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799563,"Unnamed fire in Rolette County, North Dakota",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799564,"Unnamed fire in Tift County, Georgia",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799565,"Unnamed fire in Division No. 16, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799566,"Unnamed fire in Newton County, Missouri",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799567,"Unnamed fire in Polk County, Texas",1049.9999973922158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799568,"Unnamed fire in Division No. 20, Mb, Canada",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799569,"Unnamed fire in Lee County, Arkansas",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799570,"Unnamed fire in Tattnall County, Georgia",609.9999984850016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799571,"Unnamed fire in Vernon County, Louisiana",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799572,"Unnamed fire in Hughes County, Oklahoma",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799573,"Unnamed fire in Division No. 16, Ab, Canada",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799574,"Unnamed fire in Winston County, Alabama",609.9999984850016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799575,"Unnamed fire in Chihuahua, Chihuahua, Mexico",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799576,"Unnamed fire in Whitman County, Washington",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799577,"Unnamed fire in Division No.  6, Sk, Canada",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799578,"Unnamed fire in Division No. 14, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799579,"Unnamed fire in Towner County, North Dakota",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799580,"Unnamed fire in Mississippi County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799581,"Unnamed fire in Jefferson County, Florida",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799582,"Unnamed fire in Walla Walla County, Washington",2499.9999937909897,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799583,"Unnamed fire in Desha County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799584,"Unnamed fire in Clay County, Alabama",1219.9999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799585,"Unnamed fire in Pulaski County, Arkansas",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799586,"Unnamed fire in Cherokee County, Texas",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799587,"Unnamed fire in Division No. 11, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799588,"Unnamed fire in Duval County, Florida",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799589,"Unnamed fire in Division No. 17, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799590,"Unnamed fire in Clarke County, Mississippi",699.9999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799591,"Unnamed fire in Mitchell County, Georgia",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799592,"Unnamed fire in Chicot County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799593,"Unnamed fire in Cavalier County, North Dakota",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799594,"Unnamed fire in Jackson County, Kansas",2499.9999937909893,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799595,"Unnamed fire in Monroe County, Alabama",699.9999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799596,"Unnamed fire in Division No. 11, Sk, Canada",2299.9999942877103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799597,"Unnamed fire in Ashley County, Arkansas",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799598,"Unnamed fire in Division No. 17, Mb, Canada",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799599,"Unnamed fire in Division No. 11, Sk, Canada",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799600,"Unnamed fire in Marshall County, Mississippi",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799601,"Unnamed fire in Division No.  5, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799602,"Unnamed fire in Jasper County, Texas",1049.9999973922158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799603,"Unnamed fire in Division No. 20, Mb, Canada",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799604,"Unnamed fire in Division No.  5, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799605,"Unnamed fire in Division No. 15, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799607,"Unnamed fire in Division No.  7, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799608,"Unnamed fire in Henry County, Indiana",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799609,"Unnamed fire in Division No. 11, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799610,"Unnamed fire in Division No. 11, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799611,"Unnamed fire in Division No.  9, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799612,"Unnamed fire in Saluda County, South Carolina",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799613,"Unnamed fire in Tyler County, Texas",749.999998137297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799614,"Unnamed fire in Division No. 10, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799615,"Unnamed fire in Drew County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799616,"Unnamed fire in Morehouse County, Louisiana",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799617,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",2099.9999947844312,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799618,"Unnamed fire in Trinity County, Texas",1049.9999973922156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799619,"Unnamed fire in Division No.  6, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799620,"Unnamed fire in Missoula County, Montana",643.9999984005592,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799621,"Unnamed fire in Concordia County, Louisiana",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799622,"Unnamed fire in Mississippi County, Missouri",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799623,"Unnamed fire in Division No. 17, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799624,"Unnamed fire in Division No. 12, Ab, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799625,"Unnamed fire in Columbia County, Washington",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799626,"Unnamed fire in Arkansas County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799627,"Unnamed fire in Division No. 10, Sk, Canada",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799628,"Unnamed fire in Division No. 10, Sk, Canada",1299.999996771315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799629,"Unnamed fire in Division No.  6, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799630,"Unnamed fire in Ward County, North Dakota",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799631,"Unnamed fire in Division No.  9, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799632,"Unnamed fire in St. Francis County, Arkansas",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799634,"Unnamed fire in Division No. 11, Sk, Canada",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799635,"Unnamed fire in Wayne County, Mississippi",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799636,"Unnamed fire in Kemper County, Mississippi",1829.9999954550049,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799637,"Unnamed fire in Cherokee County, Alabama",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799638,"Unnamed fire in Rolette County, North Dakota",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799639,"Unnamed fire in Chouteau County, Montana",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799640,"Unnamed fire in Division No. 14, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799641,"Unnamed fire in Cherokee County, Oklahoma",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799642,"Unnamed fire in Iberville County, Louisiana",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799643,"Unnamed fire in Kitimat-stikine Regional District, Bc, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799644,"Unnamed fire in Division No.  6, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799646,"Unnamed fire in Henry County, Alabama",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799647,"Unnamed fire in Greene County, Arkansas",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799648,"Unnamed fire in Rapides County, Louisiana",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799649,"Unnamed fire in Colbert County, Alabama",609.9999984850016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799650,"Unnamed fire in Division No.  6, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799651,"Unnamed fire in Clearwater County, Idaho",229.9999994287711,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799652,"Unnamed fire in Ward County, North Dakota",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799653,"Unnamed fire in Division No.  6, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799654,"Unnamed fire in Winston County, Mississippi",609.9999984850016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799655,"Unnamed fire in Southampton County, Virginia",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799656,"Unnamed fire in Division No. 11, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799657,"Unnamed fire in Division No. 15, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799658,"Unnamed fire in De Soto County, Louisiana",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799659,"Unnamed fire in Division No. 19, Ab, Canada",1499.999996274594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799660,"Unnamed fire in Wilcox County, Georgia",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799661,"Unnamed fire in Chouteau County, Montana",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799662,"Unnamed fire in Randolph County, Georgia",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799663,"Unnamed fire in Tecate, Baja California, Mexico",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799664,"Unnamed fire in Juniata County, Pennsylvania",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799665,"Unnamed fire in Division No.  5, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799666,"Unnamed fire in Walla Walla County, Washington",2999.9999925491875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799667,"Unnamed fire in Division No. 16, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799668,"Unnamed fire in Meade County, Kentucky",609.9999984850016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799669,"Unnamed fire in Calcasieu County, Louisiana",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799670,"Unnamed fire in Division No. 18, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799671,"Unnamed fire in Richland County, Louisiana",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799672,"Unnamed fire in Ramsey County, North Dakota",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799673,"Unnamed fire in Division No. 14, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799674,"Unnamed fire in Mountrail County, North Dakota",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799675,"Unnamed fire in Wheeler County, Georgia",699.9999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799676,"Unnamed fire in Division No. 16, Sk, Canada",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799677,"Unnamed fire in Division No. 11, Sk, Canada",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799678,"Unnamed fire in Butler County, Alabama",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799679,"Unnamed fire in Santa Barbara County, California",6999.999982614774,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799680,"Unnamed fire in Dinwiddie County, Virginia",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799681,"Unnamed fire in Vernon County, Missouri",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799682,"Unnamed fire in Crisp County, Georgia",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799683,"Unnamed fire in Leflore County, Mississippi",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799685,"Unnamed fire in Division No.  6, Sk, Canada",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799686,"Unnamed fire in Fresno County, California",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799687,"Unnamed fire in Talladega County, Alabama",5367.999986668011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799689,"Unnamed fire in Fluvanna County, Virginia",609.9999984850016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799690,"Unnamed fire in Carroll County, New Hampshire",609.9999984850016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799691,"Unnamed fire in Tijuana, Baja California, Mexico",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799692,"Unnamed fire in El Fuerte, Sinaloa, Mexico",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799693,"Unnamed fire in Mississippi County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799694,"Unnamed fire in Colleton County, South Carolina",374.9999990686485,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799695,"Unnamed fire in Division No. 10, Sk, Canada",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799697,"Unnamed fire in Grundy County, Tennessee",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799698,"Unnamed fire in Ramsey County, North Dakota",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799699,"Unnamed fire in Division No.  5, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799700,"Unnamed fire in Tulare County, California",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799701,"Unnamed fire in Franklin County, Louisiana",1499.999996274594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799702,"Unnamed fire in Division No. 17, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799704,"Unnamed fire in Sanders County, Montana",643.9999984005591,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799705,"Unnamed fire in Wayne County, Mississippi",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799706,"Unnamed fire in Prairie County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799707,"Unnamed fire in Wayne County, Missouri",1219.9999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799708,"Unnamed fire in Prince George County, Virginia",1049.9999973922156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799709,"Unnamed fire in Tattnall County, Georgia",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799710,"Unnamed fire in Division No. 15, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799711,"Unnamed fire in Santa Rosa County, Florida",1049.9999973922158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799712,"Unnamed fire in Walla Walla County, Washington",1499.9999962745942,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799713,"Unnamed fire in Santa Rosa County, Florida",1399.9999965229542,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799714,"Unnamed fire in Escambia County, Alabama",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799715,"Unnamed fire in Division No.  6, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799716,"Unnamed fire in Randolph County, Alabama",2195.9999945460063,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799717,"Unnamed fire in Division No. 11, Sk, Canada",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799718,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",3999.999990065583,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799719,"Unnamed fire in Jefferson County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799721,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799722,"Unnamed fire in Ouachita County, Arkansas",374.9999990686485,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799723,"Unnamed fire in Bolivar County, Mississippi",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799724,"Unnamed fire in Salvador Alvarado, Sinaloa, Mexico",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799726,"Unnamed fire in Decatur County, Georgia",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799727,"Unnamed fire in Warrick County, Indiana",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799728,"Unnamed fire in Pointe Coupee County, Louisiana",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799729,"Unnamed fire in West Carroll County, Louisiana",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799730,"Unnamed fire in Tangipahoa County, Louisiana",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799731,"Unnamed fire in Ballard County, Kentucky",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799732,"Unnamed fire in Monroe County, Alabama",374.9999990686485,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799733,"Unnamed fire in Division No.  5, Sk, Canada",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799734,"Unnamed fire in Division No. 12, Mb, Canada",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799735,"Unnamed fire in Division No.  9, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799736,"Unnamed fire in Division No. 10, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799737,"Unnamed fire in Greene County, Georgia",2439.9999939400063,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799738,"Unnamed fire in Division No. 11, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799739,"Unnamed fire in Oktibbeha County, Mississippi",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799740,"Unnamed fire in Creek County, Oklahoma",749.999998137297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799741,"Unnamed fire in Altar, Sonora, Mexico",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799742,"Unnamed fire in Division No.  5, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799743,"Unnamed fire in Jackson County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799744,"Unnamed fire in New Madrid County, Missouri",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799745,"Unnamed fire in Division No.  4, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799746,"Unnamed fire in Chambers County, Texas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799747,"Unnamed fire in Mexicali, Baja California, Mexico",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799748,"Unnamed fire in Jackson County, Arkansas",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799749,"Unnamed fire in Clearwater County, Idaho",689.9999982863135,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799750,"Unnamed fire in Wilson County, Kansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799751,"Unnamed fire in Tensas County, Louisiana",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799752,"Unnamed fire in Culiacan, Sinaloa, Mexico",1499.9999962745942,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799753,"Unnamed fire in Division No.  6, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799754,"Unnamed fire in Mcpherson County, Kansas",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799755,"Unnamed fire in Division No. 14, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799756,"Unnamed fire in Mclean County, North Dakota",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799757,"Unnamed fire in Alleghany County, North Carolina",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799758,"Unnamed fire in Macon County, Missouri",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799759,"Unnamed fire in Kern County, California",1229.9999969451671,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799760,"Unnamed fire in Lake County, Tennessee",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799761,"Unnamed fire in Webster County, Mississippi",609.9999984850016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799762,"Unnamed fire in Clark County, Arkansas",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799763,"Unnamed fire in Division No.  6, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799764,"Unnamed fire in Division No.  7, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799765,"Unnamed fire in Scott County, Missouri",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799766,"Unnamed fire in Division No.  4, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799767,"Unnamed fire in Mexicali, Baja California, Mexico",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799768,"Unnamed fire in Scott County, Missouri",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799769,"Unnamed fire in Division No. 17, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799770,"Unnamed fire in Division No. 11, Sk, Canada",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799771,"Unnamed fire in Copiah County, Mississippi",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799772,"Unnamed fire in Franklin County, Louisiana",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799773,"Unnamed fire in Division No.  9, Sk, Canada",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799774,"Unnamed fire in Division No.  4, Mb, Canada",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799775,"Unnamed fire in Division No. 17, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799776,"Unnamed fire in Division No.  3, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799777,"Unnamed fire in Madison County, Tennessee",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799778,"Unnamed fire in Altar, Sonora, Mexico",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799779,"Unnamed fire in Division No. 17, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799780,"Unnamed fire in Pulaski County, Kentucky",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799781,"Unnamed fire in Culiacan, Sinaloa, Mexico",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799782,"Unnamed fire in Chouteau County, Montana",5999.999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799783,"Unnamed fire in Division No. 10, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799784,"Unnamed fire in Tattnall County, Georgia",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799785,"Unnamed fire in Division No. 16, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799786,"Unnamed fire in Division No. 17, Ab, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799787,"Unnamed fire in Polk County, Missouri",609.9999984850016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799788,"Unnamed fire in Renville County, North Dakota",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799789,"Unnamed fire in Benton County, Missouri",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799790,"Unnamed fire in Richland County, Louisiana",1499.9999962745937,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799791,"Unnamed fire in Division No.  5, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799792,"Unnamed fire in Richmond County, North Carolina",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799793,"Unnamed fire in Hardeman County, Tennessee",609.9999984850016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799794,"Unnamed fire in Webster County, Mississippi",609.9999984850016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799795,"Unnamed fire in Division No.  6, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799796,"Unnamed fire in Hardin County, Kentucky",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799797,"Unnamed fire in Marion County, Mississippi",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799798,"Unnamed fire in Colbert County, Alabama",1707.9999957580042,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799799,"Unnamed fire in Coffee County, Alabama",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799801,"Unnamed fire in Division No. 17, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799802,"Unnamed fire in Camden County, Missouri",1829.9999954550049,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799803,"Unnamed fire in Pike County, Arkansas",1099.9999972680357,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799804,"Unnamed fire in Division No.  6, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799805,"Unnamed fire in Saluda County, South Carolina",609.9999984850016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799806,"Unnamed fire in Kleberg County, Texas",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799808,"Unnamed fire in Lowndes County, Georgia",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799809,"Unnamed fire in Lincoln County, Tennessee",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799810,"Unnamed fire in Malheur County, Oregon",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799811,"Unnamed fire in Division No. 11, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799812,"Unnamed fire in Polk County, Missouri",609.9999984850016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799813,"Unnamed fire in El Fuerte, Sinaloa, Mexico",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799814,"Unnamed fire in Division No.  6, Sk, Canada",1499.999996274594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799815,"Unnamed fire in Richland County, Louisiana",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799816,"Unnamed fire in Tensas County, Louisiana",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799818,"Unnamed fire in Poinsett County, Arkansas",1299.9999967713147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799819,"Unnamed fire in Division No.  6, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799820,"Unnamed fire in Houston County, Texas",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799821,"Unnamed fire in Mobile County, Alabama",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799822,"Unnamed fire in Lonoke County, Arkansas",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799823,"Unnamed fire in Clearwater County, Idaho",689.9999982863134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799824,"Unnamed fire in Cherokee County, Oklahoma",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799825,"Unnamed fire in Division No.  6, Ab, Canada",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799826,"Unnamed fire in Osage County, Oklahoma",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799827,"Unnamed fire in Division No. 14, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799828,"Unnamed fire in Division No. 14, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799829,"Unnamed fire in Fresno County, California",4199.999989568863,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799830,"Unnamed fire in Burke County, North Dakota",1999.9999950327922,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799831,"Unnamed fire in Dorchester County, South Carolina",374.9999990686485,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799833,"Unnamed fire in Dunklin County, Missouri",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799834,"Unnamed fire in Division No.  9, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799836,"Unnamed fire in Phillips County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799837,"Unnamed fire in Kings County, California",3499.9999913073857,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799838,"Unnamed fire in Division No.  7, Sk, Canada",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799839,"Unnamed fire in Division No. 14, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799840,"Unnamed fire in Mcclain County, Oklahoma",749.999998137297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799841,"Unnamed fire in Morehouse County, Louisiana",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799842,"Unnamed fire in Coffey County, Kansas",1499.999996274594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799843,"Unnamed fire in Rapides County, Louisiana",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799844,"Unnamed fire in Idaho County, Idaho",229.9999994287711,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799845,"Unnamed fire in Division No. 17, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799846,"Unnamed fire in Division No. 11, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799847,"Unnamed fire in Division No.  9, Sk, Canada",2499.9999937909906,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799848,"Unnamed fire in Monroe County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799849,"Unnamed fire in Division No.  9, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799850,"Unnamed fire in Clay County, Alabama",1829.9999954550049,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799851,"Unnamed fire in Division No. 10, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799854,"Unnamed fire in Clearwater County, Idaho",459.9999988575422,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799855,"Unnamed fire in Fulton County, Kentucky",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799857,"Unnamed fire in Latah County, Idaho",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799858,"Unnamed fire in Latah County, Idaho",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799859,"Unnamed fire in Yazoo County, Mississippi",609.9999984850016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799860,"Unnamed fire in Division No.  1, Ab, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799861,"Unnamed fire in Division No.  9, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799862,"Unnamed fire in Division No.  7, Ab, Canada",2999.999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799863,"Unnamed fire in Izard County, Arkansas",609.9999984850016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799864,"Unnamed fire in Randolph County, Georgia",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799865,"Unnamed fire in Barbour County, Alabama",699.9999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799866,"Unnamed fire in Kitimat-stikine Regional District, Bc, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799867,"Unnamed fire in Cavalier County, North Dakota",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799868,"Unnamed fire in Ashley County, Arkansas",629.9999984353294,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799869,"Unnamed fire in Gallatin County, Montana",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799870,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799871,"Unnamed fire in Division No. 17, Ab, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799872,"Unnamed fire in Lee County, Arkansas",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799873,"Unnamed fire in Division No.  6, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799874,"Unnamed fire in Division No. 14, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799875,"Unnamed fire in Lonoke County, Arkansas",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799876,"Unnamed fire in Camden County, North Carolina",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799877,"Unnamed fire in Teton County, Montana",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799878,"Unnamed fire in Camden County, Missouri",609.9999984850016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799880,"Unnamed fire in Tulare County, California",1649.9999959020533,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799881,"Unnamed fire in Division No. 13, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799882,"Unnamed fire in Clinch County, Georgia",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799883,"Unnamed fire in Anson County, North Carolina",374.9999990686485,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799884,"Unnamed fire in Saline County, Arkansas",609.9999984850016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799885,"Unnamed fire in Franklin County, Louisiana",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799886,"Unnamed fire in Division No. 17, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799887,"Unnamed fire in Division No.  5, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799888,"Unnamed fire in Mexicali, Baja California, Mexico",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799889,"Unnamed fire in Arkansas County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799890,"Unnamed fire in Madison County, Florida",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799891,"Unnamed fire in Coahoma County, Mississippi",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799892,"Unnamed fire in Twin Falls County, Idaho",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799893,"Unnamed fire in Walsh County, North Dakota",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799895,"Unnamed fire in Trinity County, Texas",349.99999913073856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799896,"Unnamed fire in Idaho County, Idaho",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799897,"Unnamed fire in Division No. 11, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799898,"Unnamed fire in Ashley County, Arkansas",2239.999994436727,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799899,"Unnamed fire in Burke County, North Dakota",1499.999996274594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799900,"Unnamed fire in Division No.  6, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799901,"Unnamed fire in Division No.  5, Sk, Canada",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799902,"Unnamed fire in Division No. 11, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799903,"Unnamed fire in Division No. 20, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799904,"Unnamed fire in Division No.  6, Sk, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799905,"Unnamed fire in Jefferson County, Texas",1599.9999960262337,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799906,"Unnamed fire in Morehouse County, Louisiana",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799907,"Unnamed fire in Crittenden County, Arkansas",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799908,"Unnamed fire in Randolph County, Georgia",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799909,"Unnamed fire in Division No. 16, Mb, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799910,"Unnamed fire in Division No. 11, Sk, Canada",1399.9999965229542,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799911,"Unnamed fire in Okanagan-similkameen Regional District, Bc, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799912,"Unnamed fire in Noxubee County, Mississippi",1219.9999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799913,"Unnamed fire in Division No.  6, Ab, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799914,"Unnamed fire in Stoddard County, Missouri",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799969,"Unnamed fire in Division No. 10, Sk, Canada",1399.9999965229542,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1799973,"Unnamed fire in Division No. 10, Sk, Canada",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1800070,"Unnamed fire in Division No.  5, Sk, Canada",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1800118,"Unnamed fire in Phillips County, Arkansas",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1800232,"Unnamed fire in Dunklin County, Missouri",1299.9999967713147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801076,"Unnamed fire in Cameron County, Louisiana",16634.88367961577,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801155,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",2699.9999932942696,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801250,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",1399.9999965229542,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801254,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",699.9999982614772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801255,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",3999.999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801271,"Unnamed fire in Cameron County, Louisiana",2499.99999379099,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801317,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",6299.999984353297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801320,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",2099.9999947844312,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801322,"Unnamed fire in Division No. 11, Sk, Canada",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801323,"Unnamed fire in Ascension County, Louisiana",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801324,"Unnamed fire in Ensenada, Baja California, Mexico",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801325,"Unnamed fire in Ottawa County, Kansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801326,"Unnamed fire in Woodruff County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801327,"Unnamed fire in Miller County, Missouri",487.9999987880013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801328,"Unnamed fire in Division No. 10, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801329,"Unnamed fire in Division No. 11, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801331,"Unnamed fire in Division No.  5, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801332,"Unnamed fire in Division No.  9, Mb, Canada",1599.9999960262337,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801333,"Unnamed fire in Poinsett County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801334,"Unnamed fire in Independence County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801335,"Unnamed fire in Vernon County, Missouri",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801336,"Unnamed fire in Division No. 14, Sk, Canada",1599.9999960262335,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801337,"Unnamed fire in Richland County, Louisiana",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801338,"Unnamed fire in New Madrid County, Missouri",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801339,"Unnamed fire in Lake County, Tennessee",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801340,"Unnamed fire in Division No.  4, Mb, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801341,"Unnamed fire in West Baton Rouge County, Louisiana",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801342,"Unnamed fire in Division No. 11, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801343,"Unnamed fire in Yakima County, Washington",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801344,"Unnamed fire in Division No. 20, Mb, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801345,"Unnamed fire in Shannon County, Missouri",487.9999987880013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801346,"Unnamed fire in Cross County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801347,"Unnamed fire in Division No. 10, Sk, Canada",699.9999982614772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801348,"Unnamed fire in Chambers County, Texas",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801350,"Unnamed fire in Lee County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801351,"Unnamed fire in Scott County, Missouri",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801352,"Unnamed fire in Division No.  6, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801353,"Unnamed fire in Arkansas County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801354,"Unnamed fire in Mccurtain County, Oklahoma",4399.999989072144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801355,"Unnamed fire in Cross County, Arkansas",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801356,"Unnamed fire in Ensenada, Baja California, Mexico",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801357,"Unnamed fire in Morehouse County, Louisiana",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801358,"Unnamed fire in Division No. 16, Mb, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801361,"Unnamed fire in Dyer County, Tennessee",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801362,"Unnamed fire in Division No. 10, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801363,"Unnamed fire in Division No. 15, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801364,"Unnamed fire in Division No. 11, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801365,"Unnamed fire in Division No. 10, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801366,"Unnamed fire in Division No. 20, Mb, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801367,"Unnamed fire in Coosa County, Alabama",487.9999987880013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801368,"Unnamed fire in Tallapoosa County, Alabama",487.9999987880013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801370,"Unnamed fire in Monroe County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801371,"Unnamed fire in Vernon County, Louisiana",279.99999930459086,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801372,"Unnamed fire in Sequoyah County, Oklahoma",487.9999987880013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801373,"Unnamed fire in Division No.  6, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801374,"Unnamed fire in Crittenden County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801375,"Unnamed fire in Saline County, Arkansas",559.9999986091817,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801376,"Unnamed fire in Butte County, California",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801377,"Unnamed fire in Sunflower County, Mississippi",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801378,"Unnamed fire in Mississippi County, Missouri",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801379,"Unnamed fire in Division No. 15, Mb, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801380,"Unnamed fire in New Madrid County, Missouri",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801381,"Unnamed fire in Chicot County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801382,"Unnamed fire in Geneva County, Alabama",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801383,"Unnamed fire in New Madrid County, Missouri",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801384,"Unnamed fire in Coahoma County, Mississippi",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801385,"Unnamed fire in Division No. 10, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801386,"Unnamed fire in Division No. 15, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801387,"Unnamed fire in New Madrid County, Missouri",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801388,"Unnamed fire in Division No.  9, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801389,"Unnamed fire in Madison County, Kentucky",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801390,"Unnamed fire in East Baton Rouge County, Louisiana",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801391,"Unnamed fire in Division No. 19, Ab, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801392,"Unnamed fire in Arkansas County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801393,"Unnamed fire in Division No. 10, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801394,"Unnamed fire in Fulton County, Kentucky",2799.999993045909,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801395,"Unnamed fire in Stone County, Arkansas",487.9999987880013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801396,"Unnamed fire in Mexicali, Baja California, Mexico",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801397,"Unnamed fire in Simpson County, Mississippi",279.99999930459086,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801398,"Unnamed fire in Thompson-nicola Regional District, Bc, Canada",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801399,"Unnamed fire in Adams County, Illinois",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801400,"Unnamed fire in Conecuh County, Alabama",839.9999979137725,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801401,"Unnamed fire in Cameron County, Louisiana",1599.9999960262332,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801402,"Unnamed fire in Division No. 10, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801403,"Unnamed fire in Breckinridge County, Kentucky",487.9999987880013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801404,"Unnamed fire in Division No. 10, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801405,"Unnamed fire in Morehouse County, Louisiana",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801406,"Unnamed fire in Division No. 20, Mb, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801408,"Unnamed fire in Division No.  3, Mb, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801409,"Unnamed fire in Cameron County, Louisiana",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801410,"Unnamed fire in St. James County, Louisiana",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801412,"Unnamed fire in Division No. 11, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801413,"Unnamed fire in Division No. 10, Sk, Canada",699.9999982614772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801414,"Unnamed fire in Division No.  5, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801415,"Unnamed fire in Cameron County, Louisiana",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801416,"Unnamed fire in St. James County, Louisiana",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801417,"Unnamed fire in St. Landry County, Louisiana",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801418,"Unnamed fire in St. Helena County, Louisiana",1119.9999972183634,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801419,"Unnamed fire in Division No. 11, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801420,"Unnamed fire in Craven County, North Carolina",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801421,"Unnamed fire in Fond Du Lac County, Wisconsin",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801422,"Unnamed fire in Little River County, Arkansas",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801423,"Unnamed fire in Division No. 14, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801424,"Unnamed fire in St. Martin County, Louisiana",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801425,"Unnamed fire in Stoddard County, Missouri",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801426,"Unnamed fire in Iberia County, Louisiana",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801427,"Unnamed fire in Douglas County, Washington",17599.99995628857,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801428,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801429,"Unnamed fire in Tallahatchie County, Mississippi",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801430,"Unnamed fire in Lafourche County, Louisiana",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801432,"Unnamed fire in Worth County, Georgia",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801433,"Unnamed fire in Lincoln County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801434,"Unnamed fire in Natchitoches County, Louisiana",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801435,"Unnamed fire in Division No. 10, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801437,"Unnamed fire in Division No.  6, Ab, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801438,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801439,"Unnamed fire in Medina County, Texas",1399.9999965229545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801440,"Unnamed fire in Wilcox County, Georgia",2299.999994287711,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801442,"Unnamed fire in Lafayette County, Louisiana",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801443,"Unnamed fire in Division No. 11, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801444,"Unnamed fire in Evangeline County, Louisiana",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801445,"Unnamed fire in Division No. 10, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801446,"Unnamed fire in Division No.  9, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801447,"Unnamed fire in Crittenden County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801448,"Unnamed fire in Division No. 10, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801449,"Unnamed fire in East Carroll County, Louisiana",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801450,"Unnamed fire in Division No.  7, Sk, Canada",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801451,"Unnamed fire in Division No.  9, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801452,"Unnamed fire in Division No.  4, Mb, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801453,"Unnamed fire in Ozark County, Missouri",4879.999987880014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801454,"Unnamed fire in Randolph County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801456,"Unnamed fire in Escambia County, Alabama",279.99999930459086,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801457,"Unnamed fire in Liberty County, Texas",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801458,"Unnamed fire in Butler County, Alabama",279.99999930459086,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801459,"Unnamed fire in Tunica County, Mississippi",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801460,"Unnamed fire in Pemiscot County, Missouri",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801461,"Unnamed fire in Division No.  7, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801462,"Unnamed fire in Lake County, Tennessee",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801463,"Unnamed fire in Mexicali, Baja California, Mexico",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801464,"Unnamed fire in Cameron County, Louisiana",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801465,"Unnamed fire in Tipton County, Tennessee",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801466,"Unnamed fire in Division No. 10, Sk, Canada",699.9999982614772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801467,"Unnamed fire in Division No. 10, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801468,"Unnamed fire in Division No. 15, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801469,"Unnamed fire in Division No. 10, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801470,"Unnamed fire in Stoddard County, Missouri",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801471,"Unnamed fire in Division No. 20, Mb, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801472,"Unnamed fire in Mcpherson County, Kansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801474,"Unnamed fire in Conecuh County, Alabama",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801475,"Unnamed fire in Division No.  6, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801476,"Unnamed fire in Escambia County, Alabama",279.99999930459086,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801477,"Unnamed fire in Division No.  9, Sk, Canada",1999.9999950327922,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801478,"Unnamed fire in Division No. 15, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801479,"Unnamed fire in Division No. 10, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801480,"Unnamed fire in Jefferson County, Mississippi",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801481,"Unnamed fire in Tensas County, Louisiana",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801482,"Unnamed fire in Division No.  4, Mb, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801484,"Unnamed fire in Burke County, North Dakota",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801485,"Unnamed fire in Clay County, Arkansas",3199.9999920524674,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801486,"Unnamed fire in Chicot County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801487,"Unnamed fire in Division No. 20, Mb, Canada",1599.9999960262337,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801488,"Unnamed fire in Jefferson Davis County, Louisiana",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801489,"Unnamed fire in Muskogee County, Oklahoma",975.9999975760026,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801490,"Unnamed fire in Altar, Sonora, Mexico",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801491,"Unnamed fire in Lee County, Arkansas",699.9999982614772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801493,"Unnamed fire in Division No. 10, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801494,"Unnamed fire in Division No.  3, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801495,"Unnamed fire in Crittenden County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801497,"Unnamed fire in Division No.  5, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801498,"Unnamed fire in Butler County, Missouri",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801499,"Unnamed fire in Division No.  9, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801500,"Unnamed fire in Division No.  7, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801501,"Unnamed fire in Division No.  6, Sk, Canada",699.9999982614772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801502,"Unnamed fire in Colbert County, Alabama",487.9999987880013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801503,"Unnamed fire in Division No.  5, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801505,"Unnamed fire in Division No.  6, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801506,"Unnamed fire in Division No.  9, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801507,"Unnamed fire in Division No. 11, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801508,"Unnamed fire in Turner County, Georgia",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801510,"Unnamed fire in Plumas County, California",551.9999986290507,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801511,"Unnamed fire in St. Helena County, Louisiana",279.99999930459086,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801512,"Unnamed fire in Chicot County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801513,"Unnamed fire in Lincoln County, Louisiana",559.9999986091817,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801515,"Unnamed fire in Division No.  9, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801516,"Unnamed fire in Division No.  7, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801517,"Unnamed fire in Cavalier County, North Dakota",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801518,"Unnamed fire in Coconino County, Arizona",559.9999986091817,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801519,"Unnamed fire in Division No.  4, Mb, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801520,"Unnamed fire in New Madrid County, Missouri",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801521,"Unnamed fire in Ascension County, Louisiana",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801522,"Unnamed fire in Stanislaus County, California",1599.9999960262337,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801523,"Unnamed fire in Spokane County, Washington",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801524,"Unnamed fire in Division No. 10, Sk, Canada",699.9999982614772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801526,"Unnamed fire in Monroe County, Alabama",279.99999930459086,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801527,"Unnamed fire in Concordia County, Louisiana",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801528,"Unnamed fire in Division No. 10, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801529,"Unnamed fire in Kitimat-stikine Regional District, Bc, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801530,"Unnamed fire in Independence County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801531,"Unnamed fire in Calcasieu County, Louisiana",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801532,"Unnamed fire in Division No. 11, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801533,"Unnamed fire in Howell County, Missouri",487.9999987880013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801534,"Unnamed fire in Division No. 10, Sk, Canada",699.9999982614772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801535,"Unnamed fire in Division No. 11, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801536,"Unnamed fire in Santa Rosa County, Florida",279.99999930459086,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801537,"Unnamed fire in Dyer County, Tennessee",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801538,"Unnamed fire in Dyer County, Tennessee",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801539,"Unnamed fire in Division No.  6, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801540,"Unnamed fire in Bossier County, Louisiana",1679.9999958275453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801541,"Unnamed fire in Division No. 11, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801542,"Unnamed fire in Independence County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801543,"Unnamed fire in Woodruff County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801544,"Unnamed fire in Leake County, Mississippi",975.9999975760026,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801546,"Unnamed fire in Division No.  6, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801547,"Unnamed fire in Division No. 11, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801548,"Unnamed fire in Caldwell County, Louisiana",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801549,"Unnamed fire in Kleberg County, Texas",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801550,"Unnamed fire in New Madrid County, Missouri",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801551,"Unnamed fire in Division No.  9, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801552,"Unnamed fire in Randolph County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801553,"Unnamed fire in Humphreys County, Mississippi",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801554,"Unnamed fire in Division No. 16, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801555,"Unnamed fire in Liberty County, Texas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801556,"Unnamed fire in Randolph County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801557,"Unnamed fire in Webster County, Mississippi",487.9999987880013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801558,"Unnamed fire in Grant County, Arkansas",279.99999930459086,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801559,"Unnamed fire in Grant County, Washington",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801560,"Unnamed fire in Siskiyou County, California",183.99999954301688,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801585,"Unnamed fire in Mississippi County, Missouri",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1801772,"Unnamed fire in Columbia County, Washington",11799.999970693485,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802174,"Unnamed fire in Colusa County, California",2899.9999927975487,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802206,"Unnamed fire in Drummond, Qc, Canada",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802219,"Unnamed fire in San Augustine County, Texas",2449.9999939151703,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802240,"Unnamed fire in Yolo County, California",10099.999974915601,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802327,"Unnamed fire in Division No. 14, Sk, Canada",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802328,"Unnamed fire in Randolph County, Alabama",365.999999091001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802329,"Unnamed fire in Kitimat-stikine Regional District, Bc, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802330,"Unnamed fire in Neshoba County, Mississippi",4391.999989092012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802331,"Unnamed fire in Division No. 10, Sk, Canada",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802332,"Unnamed fire in Calcasieu County, Louisiana",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802333,"Unnamed fire in Searcy County, Arkansas",1463.999996364004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802334,"Unnamed fire in Division No. 14, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802335,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802336,"Unnamed fire in Crittenden County, Arkansas",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802337,"Unnamed fire in Sumner County, Tennessee",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802338,"Unnamed fire in Division No. 10, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802339,"Unnamed fire in Lauderdale County, Mississippi",731.999998182002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802340,"Unnamed fire in La Salle County, Louisiana",209.99999947844316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802341,"Unnamed fire in Kings County, California",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802342,"Unnamed fire in Fannin County, Texas",449.99999888237824,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802343,"Unnamed fire in Division No. 10, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802344,"Unnamed fire in Division No. 20, Mb, Canada",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802345,"Unnamed fire in Fresno County, California",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802346,"Unnamed fire in Henry County, Missouri",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802347,"Unnamed fire in La Salle County, Louisiana",209.99999947844316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802348,"Unnamed fire in Gillespie County, Texas",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802349,"Unnamed fire in Blanco County, Texas",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802350,"Unnamed fire in Essex County, Virginia",449.99999888237824,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802351,"Unnamed fire in Tulare County, California",2099.9999947844317,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802352,"Unnamed fire in Division No.  9, Sk, Canada",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802353,"Unnamed fire in Lee County, North Carolina",209.99999947844316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802354,"Unnamed fire in Division No. 14, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802355,"Unnamed fire in Louisa County, Virginia",731.999998182002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802356,"Unnamed fire in Lafayette County, Arkansas",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802357,"Unnamed fire in Burnet County, Texas",1499.999996274594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802358,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802359,"Unnamed fire in Division No. 14, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802360,"Unnamed fire in Miami County, Kansas",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802361,"Unnamed fire in Medina County, Texas",2799.999993045909,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802362,"Unnamed fire in Burnet County, Texas",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802363,"Unnamed fire in Mexicali, Baja California, Mexico",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802364,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802365,"Unnamed fire in New Madrid County, Missouri",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802366,"Unnamed fire in Lee County, Arkansas",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802367,"Unnamed fire in Kings County, California",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802368,"Unnamed fire in Erath County, Texas",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802369,"Unnamed fire in New Madrid County, Missouri",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802370,"Unnamed fire in Division No.  6, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802372,"Unnamed fire in Division No. 10, Sk, Canada",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802373,"Unnamed fire in Division No. 14, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802374,"Unnamed fire in Winston County, Mississippi",209.99999947844316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802375,"Unnamed fire in Garfield County, Oklahoma",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802376,"Unnamed fire in Hunt County, Texas",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802377,"Unnamed fire in Pendleton County, Kentucky",365.999999091001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802378,"Unnamed fire in Clark County, Nevada",239.99999940393508,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802379,"Unnamed fire in Pemiscot County, Missouri",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802380,"Unnamed fire in Division No.  9, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802381,"Unnamed fire in Mexicali, Baja California, Mexico",699.9999982614772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802382,"Unnamed fire in Kitimat-stikine Regional District, Bc, Canada",1799.9999955295127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802383,"Unnamed fire in Division No. 16, Ab, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802384,"Unnamed fire in Yazoo County, Mississippi",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802385,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",2399.9999940393504,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802386,"Unnamed fire in Lee County, Arkansas",2399.9999940393504,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802387,"Unnamed fire in Palo Pinto County, Texas",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802388,"Unnamed fire in Division No.  5, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802389,"Unnamed fire in Division No. 20, Mb, Canada",1499.9999962745942,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802390,"Unnamed fire in Stanislaus County, California",1399.9999965229545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802391,"Unnamed fire in Division No. 10, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802392,"Unnamed fire in Lafayette County, Arkansas",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802393,"Unnamed fire in Division No.  6, Ab, Canada",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802394,"Unnamed fire in Butler County, Kansas",449.99999888237824,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802395,"Unnamed fire in Fraser-fort George Regional District, Bc, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802396,"Unnamed fire in Poinsett County, Arkansas",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802397,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802398,"Unnamed fire in Division No. 14, Sk, Canada",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802399,"Unnamed fire in Fresno County, California",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802400,"Unnamed fire in Lampasas County, Texas",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802402,"Unnamed fire in Division No. 10, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802403,"Unnamed fire in El Dorado County, California",137.99999965726266,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802404,"Unnamed fire in St. Mary's County, Maryland",365.999999091001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802405,"Unnamed fire in Perry County, Missouri",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802406,"Unnamed fire in Zapata County, Texas",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802407,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",11999.999970196754,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802408,"Unnamed fire in Talbot County, Georgia",419.99999895688626,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802409,"Unnamed fire in Division No. 14, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802410,"Unnamed fire in Jasper County, Texas",209.99999947844316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802411,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",2699.9999932942696,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802412,"Unnamed fire in Chicot County, Arkansas",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802413,"Unnamed fire in Little River County, Arkansas",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802414,"Unnamed fire in Division No.  9, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802415,"Unnamed fire in Cajeme, Sonora, Mexico",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802416,"Unnamed fire in Comox-strathcona Regional District, Bc, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802417,"Unnamed fire in Division No. 14, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802420,"Unnamed fire in Tulare County, California",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802421,"Unnamed fire in Guasave, Sinaloa, Mexico",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802423,"Unnamed fire in Simpson County, Mississippi",209.99999947844316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802424,"Unnamed fire in Mercer County, Kentucky",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802425,"Unnamed fire in Scott County, Arkansas",209.99999947844316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802427,"Unnamed fire in Park County, Wyoming",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802428,"Unnamed fire in Division No. 10, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802429,"Unnamed fire in Okanogan County, Washington",2999.9999925491884,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802430,"Unnamed fire in Division No.  6, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802431,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",5399.999986588538,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802432,"Unnamed fire in Division No. 14, Sk, Canada",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802433,"Unnamed fire in Division No. 10, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802434,"Unnamed fire in Kitimat-stikine Regional District, Bc, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802435,"Unnamed fire in Uvalde County, Texas",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802436,"Unnamed fire in Kings County, California",1499.9999962745942,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802437,"Unnamed fire in Daviess County, Missouri",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802438,"Unnamed fire in Hardeman County, Tennessee",209.99999947844316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802439,"Unnamed fire in Yukon, Yt, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802440,"Unnamed fire in Leflore County, Mississippi",224.99999944118912,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802441,"Unnamed fire in Kitimat-stikine Regional District, Bc, Canada",4499.999988823783,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802442,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802443,"Unnamed fire in Division No.  6, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802444,"Unnamed fire in Arkansas County, Arkansas",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802445,"Unnamed fire in Division No. 10, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802446,"Unnamed fire in Linn County, Oregon",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802447,"Unnamed fire in Jasper County, South Carolina",209.99999947844316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802448,"Unnamed fire in Salvador Alvarado, Sinaloa, Mexico",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802449,"Unnamed fire in Attala County, Mississippi",365.999999091001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802451,"Unnamed fire in Reeves County, Texas",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802452,"Unnamed fire in Leflore County, Mississippi",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802454,"Unnamed fire in San Bernardino County, California",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802455,"Unnamed fire in Barton County, Missouri",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802456,"Unnamed fire in Bledsoe County, Tennessee",365.999999091001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802457,"Unnamed fire in Pointe Coupee County, Louisiana",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802458,"Unnamed fire in Division No. 14, Sk, Canada",1799.999995529513,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802459,"Unnamed fire in Leflore County, Mississippi",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802460,"Unnamed fire in Fraser-fort George Regional District, Bc, Canada",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802461,"Unnamed fire in Oktibbeha County, Mississippi",365.999999091001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802462,"Unnamed fire in Crawford County, Missouri",365.999999091001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802463,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802464,"Unnamed fire in Calaveras County, California",449.99999888237824,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802465,"Unnamed fire in Division No. 10, Sk, Canada",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802466,"Unnamed fire in Cherokee County, Kansas",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802467,"Unnamed fire in Barton County, Missouri",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802468,"Unnamed fire in Sabine County, Louisiana",209.99999947844316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802469,"Unnamed fire in Bandera County, Texas",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802470,"Unnamed fire in Buena Vista County, Iowa",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802471,"Unnamed fire in Le Flore County, Oklahoma",365.999999091001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802472,"Unnamed fire in Palo Pinto County, Texas",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802473,"Unnamed fire in Haskell County, Texas",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802474,"Unnamed fire in Division No.  9, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802475,"Unnamed fire in Buena Vista County, Iowa",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802476,"Unnamed fire in New Madrid County, Missouri",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802477,"Unnamed fire in Bandera County, Texas",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802478,"Unnamed fire in Kern County, California",5099.99998733362,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802479,"Unnamed fire in Tulare County, California",2999.9999925491884,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802480,"Unnamed fire in Mccurtain County, Oklahoma",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802481,"Unnamed fire in New Madrid County, Missouri",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802482,"Unnamed fire in Division No. 20, Mb, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802484,"Unnamed fire in Ventura County, California",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802485,"Unnamed fire in Tulare County, California",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802486,"Unnamed fire in Division No. 10, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802487,"Unnamed fire in Division No.  9, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802488,"Unnamed fire in Anderson County, South Carolina",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802489,"Unnamed fire in Garfield County, Oklahoma",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1802532,"Unnamed fire in Mississippi County, Missouri",1319.999996721643,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803142,"Unnamed fire in Marion County, Florida",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803144,"Unnamed fire in Squamish-lillooet Regional District, Bc, Canada",1799.999995529513,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803152,"Unnamed fire in Fraser-fort George Regional District, Bc, Canada",13599.999966222993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803186,"Unnamed fire in Wilson County, Texas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803189,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",8599.999978641006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803216,"Unnamed fire in Fraser Valley Regional District, Bc, Canada",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803230,"Unnamed fire in Wabash County, Indiana",2799.999993045909,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803239,"Unnamed fire in Twiggs County, Georgia",243.99999939400064,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803243,"Unnamed fire in Noxubee County, Mississippi",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803298,"Unnamed fire in Jefferson County, Arkansas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803299,"Unnamed fire in Greene County, Georgia",731.999998182002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803300,"Unnamed fire in Walla Walla County, Washington",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803301,"Unnamed fire in Hardin County, Kentucky",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803302,"Unnamed fire in Division No. 17, Ab, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803303,"Unnamed fire in Ben Hill County, Georgia",279.99999930459086,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803304,"Unnamed fire in Peace River Regional District, Bc, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803305,"Unnamed fire in Chelan County, Washington",91.99999977150844,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803306,"Unnamed fire in Nueces County, Texas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803307,"Unnamed fire in Ottawa Division, On, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803308,"Unnamed fire in Lincoln County, Idaho",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803309,"Unnamed fire in Division No. 16, Ab, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803310,"Unnamed fire in Hendry County, Florida",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803311,"Unnamed fire in Mexicali, Baja California, Mexico",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803312,"Unnamed fire in Bracken County, Kentucky",243.99999939400064,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803313,"Unnamed fire in Peace River Regional District, Bc, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803314,"Unnamed fire in Lucas County, Ohio",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803315,"Unnamed fire in Madison County, Florida",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803317,"Unnamed fire in Poinsett County, Arkansas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803318,"Unnamed fire in Division No. 18, Ab, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803319,"Unnamed fire in Baker County, Oregon",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803320,"Unnamed fire in Victoria County, Texas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803321,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",2399.9999940393504,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803322,"Unnamed fire in Columbia County, Washington",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803323,"Unnamed fire in Houston County, Texas",139.99999965229543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803324,"Unnamed fire in Robertson County, Tennessee",243.99999939400064,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803325,"Unnamed fire in Red River County, Texas",449.99999888237824,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803326,"Unnamed fire in Mccurtain County, Oklahoma",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803328,"Unnamed fire in Tulare County, California",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803329,"Unnamed fire in Sumner County, Kansas",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803330,"Unnamed fire in Kerr County, Texas",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803331,"Unnamed fire in Pulaski County, Missouri",975.9999975760026,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803332,"Unnamed fire in Comox-strathcona Regional District, Bc, Canada",2399.9999940393504,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803333,"Unnamed fire in Miller County, Arkansas",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803334,"Unnamed fire in Harnett County, North Carolina",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803335,"Unnamed fire in Randolph County, Arkansas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803336,"Unnamed fire in Mexicali, Baja California, Mexico",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803337,"Unnamed fire in Pope County, Arkansas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803338,"Unnamed fire in Chickasaw County, Mississippi",243.99999939400064,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803339,"Unnamed fire in Crawford County, Pennsylvania",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803340,"Unnamed fire in St. Martin County, Louisiana",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803341,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",1599.9999960262337,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803342,"Unnamed fire in Pittsylvania County, Virginia",243.99999939400064,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803343,"Unnamed fire in Fauquier County, Virginia",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803344,"Unnamed fire in Hamilton County, Texas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803345,"Unnamed fire in Palo Pinto County, Texas",999.999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803346,"Unnamed fire in Vernon County, Missouri",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803347,"Unnamed fire in Richmond County, North Carolina",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803348,"Unnamed fire in Loudoun County, Virginia",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803349,"Unnamed fire in Loudon County, Tennessee",243.99999939400064,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803350,"Unnamed fire in Trinity County, Texas",559.9999986091817,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803351,"Unnamed fire in Crawford County, Arkansas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803352,"Unnamed fire in Bottineau County, North Dakota",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803353,"Unnamed fire in Greene County, Georgia",1463.9999963640041,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803355,"Unnamed fire in Peace River Regional District, Bc, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803356,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803357,"Unnamed fire in Randolph County, Arkansas",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803358,"Unnamed fire in Cariboo Regional District, Bc, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803359,"Unnamed fire in Agua Prieta, Sonora, Mexico",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803360,"Unnamed fire in Red River County, Texas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803361,"Unnamed fire in Box Elder County, Utah",159.99999960262338,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803362,"Unnamed fire in Mayes County, Oklahoma",487.9999987880013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803363,"Unnamed fire in Washington County, Alabama",139.99999965229543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803364,"Unnamed fire in Kimble County, Texas",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803365,"Unnamed fire in Division No. 18, Ab, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803366,"Unnamed fire in Butler County, Missouri",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803367,"Unnamed fire in Greene County, Illinois",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803368,"Unnamed fire in Yakima County, Washington",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803369,"Unnamed fire in Haskell County, Oklahoma",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803370,"Unnamed fire in Apache County, Arizona",279.99999930459086,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803371,"Unnamed fire in Edgefield County, South Carolina",731.999998182002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803372,"Unnamed fire in Lawrence County, Ohio",243.99999939400064,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803373,"Unnamed fire in Northern Rockies Regional District, Bc, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803374,"Unnamed fire in Solano County, California",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803375,"Unnamed fire in Willacy County, Texas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803376,"Unnamed fire in Fillmore County, Minnesota",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803377,"Unnamed fire in Umatilla County, Oregon",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803378,"Unnamed fire in Craven County, North Carolina",139.99999965229543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803379,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",1799.999995529513,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803380,"Unnamed fire in Stutsman County, North Dakota",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803381,"Unnamed fire in Stoddard County, Missouri",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803382,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803383,"Unnamed fire in Peace River Regional District, Bc, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803385,"Unnamed fire in Gonzales County, Texas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803386,"Unnamed fire in Ensenada, Baja California, Mexico",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803387,"Unnamed fire in Cross County, Arkansas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803389,"Unnamed fire in Morton County, North Dakota",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803390,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",4399.999989072143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803391,"Unnamed fire in Jefferson County, Wisconsin",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803392,"Unnamed fire in El Dorado County, California",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803393,"Unnamed fire in Division No. 17, Ab, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803394,"Unnamed fire in Bandera County, Texas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803395,"Unnamed fire in Conecuh County, Alabama",139.99999965229543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803396,"Unnamed fire in Fraser-fort George Regional District, Bc, Canada",3799.999990562305,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803397,"Unnamed fire in Stephens County, Texas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803398,"Unnamed fire in Jefferson County, Georgia",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803399,"Unnamed fire in Peace River Regional District, Bc, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803400,"Unnamed fire in Chippewa County, Michigan",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803401,"Unnamed fire in Ensenada, Baja California, Mexico",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803402,"Unnamed fire in Hood County, Texas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803403,"Unnamed fire in Crisp County, Georgia",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803404,"Unnamed fire in Lorain County, Ohio",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803405,"Unnamed fire in Central Okanagan Regional District, Bc, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803406,"Unnamed fire in Carroll County, Missouri",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803407,"Unnamed fire in Jones County, Iowa",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803408,"Unnamed fire in Beaufort County, North Carolina",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803409,"Unnamed fire in Coryell County, Texas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803410,"Unnamed fire in Randolph County, Arkansas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803411,"Unnamed fire in Jackson County, Arkansas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803412,"Unnamed fire in Jackson County, Texas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803413,"Unnamed fire in Bee County, Texas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803414,"Unnamed fire in Division No. 18, Ab, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803415,"Unnamed fire in Lonoke County, Arkansas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803416,"Unnamed fire in Mississippi County, Missouri",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803417,"Unnamed fire in Marion County, Illinois",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803419,"Unnamed fire in Dorchester County, Maryland",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803420,"Unnamed fire in Mexicali, Baja California, Mexico",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803421,"Unnamed fire in San Patricio County, Texas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803422,"Unnamed fire in Ensenada, Baja California, Mexico",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803424,"Unnamed fire in Walla Walla County, Washington",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803425,"Unnamed fire in Fraser-fort George Regional District, Bc, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803426,"Unnamed fire in Charlotte County, Virginia",243.99999939400064,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803427,"Unnamed fire in Walla Walla County, Washington",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803428,"Unnamed fire in Hernando County, Florida",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803429,"Unnamed fire in Dewitt County, Texas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803430,"Unnamed fire in Campbell County, Tennessee",243.99999939400064,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803431,"Unnamed fire in Ramsey County, North Dakota",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803432,"Unnamed fire in Lampasas County, Texas",1399.9999965229545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803433,"Unnamed fire in Dinwiddie County, Virginia",3499.9999913073857,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803434,"Unnamed fire in Ramsey County, North Dakota",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803435,"Unnamed fire in Division No. 17, Ab, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803436,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803437,"Unnamed fire in Fresno County, California",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803438,"Unnamed fire in Solano County, California",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803439,"Unnamed fire in Haskell County, Oklahoma",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803440,"Unnamed fire in Sanders County, Montana",275.9999993145253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803442,"Unnamed fire in Mccormick County, South Carolina",243.99999939400064,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803443,"Unnamed fire in Beauregard County, Louisiana",279.99999930459086,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803444,"Unnamed fire in Wayne County, Mississippi",139.99999965229543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803445,"Unnamed fire in Mitchell County, Georgia",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803446,"Unnamed fire in Fentress County, Tennessee",243.99999939400064,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803447,"Unnamed fire in San Joaquin County, California",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803448,"Unnamed fire in Central Kootenay Regional District, Bc, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803449,"Unnamed fire in Hempstead County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803450,"Unnamed fire in Walla Walla County, Washington",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803451,"Unnamed fire in Lake County, Tennessee",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803452,"Unnamed fire in Division No. 18, Ab, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803453,"Unnamed fire in Walsh County, North Dakota",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803454,"Unnamed fire in Peace River Regional District, Bc, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803455,"Unnamed fire in Mexicali, Baja California, Mexico",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803456,"Unnamed fire in Pembina County, North Dakota",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803457,"Unnamed fire in Trinity County, Texas",139.99999965229543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803458,"Unnamed fire in Palo Pinto County, Texas",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803459,"Unnamed fire in Fraser-fort George Regional District, Bc, Canada",6999.999982614772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803460,"Unnamed fire in Minidoka County, Idaho",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803461,"Unnamed fire in Fresno County, California",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803462,"Unnamed fire in Victoria County, Texas",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803463,"Unnamed fire in Brazoria County, Texas",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803464,"Unnamed fire in Division No.  9, Ab, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803465,"Unnamed fire in Franklin County, Washington",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803466,"Unnamed fire in Covington County, Alabama",1399.9999965229542,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803467,"Unnamed fire in Mexicali, Baja California, Mexico",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803468,"Unnamed fire in Peace River Regional District, Bc, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1803635,"Unnamed fire in Mississippi County, Arkansas",2199.999994536071,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1805029,"Unnamed fire in Sunflower County, Mississippi",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1805089,"Unnamed fire in Mississippi County, Arkansas",1799.9999955295125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1805943,"Unnamed fire in Division No. 17, Ab, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1807262,"Unnamed fire in Woodruff County, Arkansas",3199.9999920524656,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1810588,"Unnamed fire in Pemiscot County, Missouri",5299.999986836898,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1810593,"Unnamed fire in Bulkley-nechako Regional District, Bc, Canada",6499.999983856578,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1810601,"Unnamed fire in Cross County, Arkansas",2299.9999942877103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1810839,"Unnamed fire in Lonoke County, Arkansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1811325,"Unnamed fire in Mississippi County, Arkansas",6199.999984601658,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1811528,"Unnamed fire in Division No. 17, Ab, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1813749,"Unnamed fire in Colusa County, California",1999.9999950327917,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1814823,"Unnamed fire in Craighead County, Arkansas",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1815432,"Unnamed fire in Trinity County, California",8555.999978750282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1836294,"Unnamed fire in Mariposa County, California",1011.999997486593,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1846293,"Unnamed fire in Siskiyou County, California",689.999998286313,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1848495,"Unnamed fire in Lonoke County, Arkansas",6499.999983856581,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E1870905,"Unnamed fire in Poinsett County, Arkansas",47899.99988103582,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

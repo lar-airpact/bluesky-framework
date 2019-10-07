@@ -1,0 +1,47 @@
+ACKNOWLEDGMENTS
+
+     The BlueSky Framework was originally conceived, designed, and implemented
+     by the USDA Forest Service, Pacific Northwest Wildland Fire Sciences 
+     Laboratory (PNWFSL).
+     
+     The BlueSky Framework was redesigned, reengineered, implemented in Python,
+     and released as Version 3 by PNWFSL, Sonoma Technology, Inc., 
+     and Tweak, Inc.
+     
+     Contributors:
+
+       USDA Forest Service
+          Sue Ferguson
+          Jeanne Hoadly
+          Candace Krull
+          Sim Larkin
+          Susan O'Neill
+          Trent Piepho
+          Miriam Rorig
+          Robert Solomon
+		  Tara Strand
+
+       University of Washington
+          Nick Barkas
+          Christopher Frederick
+          Mitchell Johnson
+
+       US Environmental Protection Agency
+          Ray Peterson 
+
+       Sonoma Technolgy, Inc.
+          Ken Craig
+          Chris Ovard
+          Daniel Pryden
+          Sean Raffuse
+          Judd Reed
+          Steve Reid
+          Dana Sullivan
+		  Kevin Unger
+
+       Tweak, Inc.
+          James Hourihan
+          Mike Root
+
+--------------------------------------------------------------------------------
+

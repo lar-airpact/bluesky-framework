@@ -1,0 +1,250 @@
+id,event_name,total_area,total_heat,total_pm25,total_pm10,total_pm,total_co,total_co2,total_ch4,total_nmhc,total_nox,total_nh3,total_so2,total_voc,total_bc,total_h2,total_nmoc,total_no,total_no2,total_oc,total_tpc,total_tpm
+SF11E100109,"Unnamed fire in Fort Smith Region, Nt, Canada",3031.578939839179,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E100803,"Unnamed fire in Division No. 18, Sk, Canada",1756.0975566141587,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E100819,"Unnamed fire in Bethel County, Alaska",2529.032251783401,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E100836,"Unnamed fire in Division No. 16, Sk, Canada",3119.9999922511547,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E100925,"Unnamed fire in Division No. 16, Ab, Canada",7300.970855653683,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E100928,"Unnamed fire in Division No. 21, Mb, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E100931,"Unnamed fire in Division No. 18, Sk, Canada",1942.8571380318551,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E100953,"Unnamed fire in Division No. 18, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E100972,"Unnamed fire in Yukon-koyukuk County, Alaska",553.8461524706194,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E100994,"Unnamed fire in Division No. 17, Ab, Canada",3599.999991059026,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101005,"Unnamed fire in Fort Smith Region, Nt, Canada",2451.4285653401944,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101015,"Unnamed fire in Division No. 18, Sk, Canada",7758.308137831122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101022,"Unnamed fire in Division No. 21, Mb, Canada",1599.9999960262332,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101047,"Unnamed fire in Division No. 16, Ab, Canada",711.1111093449928,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101086,"Unnamed fire in Fort Smith Region, Nt, Canada",1082.3529384883343,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101091,"Unnamed fire in Division No. 18, Sk, Canada",4232.258054004874,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101098,"Unnamed fire in Division No. 17, Ab, Canada",615.3846138562436,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101124,"Unnamed fire in Division No. 18, Sk, Canada",1799.9999955295132,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101133,"Unnamed fire in Fort Smith Region, Nt, Canada",298.0392149460631,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101135,"Unnamed fire in Yukon-koyukuk County, Alaska",1542.8571390252969,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101140,"Unnamed fire in Fort Smith Region, Nt, Canada",376.47058730029033,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101144,"Unnamed fire in Division No. 18, Sk, Canada",2799.999993045909,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101157,"Unnamed fire in Division No. 18, Sk, Canada",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101167,"Unnamed fire in Northern Rockies Regional District, Bc, Canada",1177.0114913296434,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101169,"Unnamed fire in Yukon-koyukuk County, Alaska",639.9999984104935,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101192,"Unnamed fire in Division No. 18, Sk, Canada",1244.444441353737,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101196,"Unnamed fire in Fort Smith Region, Nt, Canada",352.94117559402196,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101197,"Unnamed fire in Division No. 18, Sk, Canada",654.5454529198229,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101205,"Unnamed fire in Division No. 18, Sk, Canada",933.3333310153032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101212,"Unnamed fire in Division No. 17, Ab, Canada",1003.7735824126846,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101214,"Unnamed fire in Division No. 18, Sk, Canada",666.6666650109305,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101225,"Unnamed fire in Division No. 18, Sk, Canada",1599.9999960262335,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101229,"Unnamed fire in Fort Smith Region, Nt, Canada",70.9677417592281,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101231,"Unnamed fire in Division No. 18, Sk, Canada",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101232,"Unnamed fire in Division No. 17, Ab, Canada",1651.9480478452665,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101239,"Unnamed fire in Yukon-koyukuk County, Alaska",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101252,"Unnamed fire in Division No. 16, Ab, Canada",6839.999983012148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101308,"Unnamed fire in Division No. 18, Sk, Canada",1320.6349173549852,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101432,"Unnamed fire in Division No. 18, Sk, Canada",2672.7272660892777,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101881,"Unnamed fire in Denali County, Alaska",4069.5652072841167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101893,"Unnamed fire in Yukon-koyukuk County, Alaska",1252.1739099335746,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101934,"Unnamed fire in Fort Smith Region, Nt, Canada",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101941,"Unnamed fire in Division No. 17, Ab, Canada",7572.413774296568,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101957,"Unnamed fire in Division No. 18, Sk, Canada",3891.891882225975,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101958,"Unnamed fire in Fort Smith Region, Nt, Canada",2799.999993045908,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101961,"Unnamed fire in Fort Smith Region, Nt, Canada",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101970,"Unnamed fire in Fort Smith Region, Nt, Canada",319.99999920524675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101985,"Unnamed fire in Division No. 17, Ab, Canada",2355.868538749894,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E101994,"Unnamed fire in Fort Smith Region, Nt, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102014,"Unnamed fire in Fort Smith Region, Nt, Canada",3628.1690050735733,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102021,"Unnamed fire in Division No. 18, Sk, Canada",3838.70966788552,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102026,"Unnamed fire in Division No. 18, Sk, Canada",615.3846138562437,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102027,"Unnamed fire in Division No. 16, Ab, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102053,"Unnamed fire in Division No. 18, Sk, Canada",1542.8571390252962,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102056,"Unnamed fire in Division No. 16, Ab, Canada",349.9999991307386,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102071,"Unnamed fire in Fort Smith Region, Nt, Canada",359.9999991059026,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102076,"Unnamed fire in Fort Smith Region, Nt, Canada",3460.194166163529,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102091,"Unnamed fire in Division No. 16, Ab, Canada",8535.211246407553,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102102,"Unnamed fire in Yukon-koyukuk County, Alaska",1540.7407369141508,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102148,"Unnamed fire in Division No. 17, Ab, Canada",969.491523015896,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102150,"Unnamed fire in Division No. 18, Sk, Canada",705.8823511880443,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102153,"Unnamed fire in Division No. 18, Sk, Canada",4079.9999898668966,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102159,"Unnamed fire in Fort Smith Region, Nt, Canada",2399.9999940393504,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102166,"Unnamed fire in Division No. 16, Ab, Canada",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102168,"Unnamed fire in Division No. 17, Ab, Canada",239.99999940393508,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102174,"Unnamed fire in Fort Smith Region, Nt, Canada",5703.37077235194,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102183,"Unnamed fire in Fort Smith Region, Nt, Canada",1816.2162117054543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102186,"Unnamed fire in Scott County, Missouri",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102190,"Unnamed fire in Fort Smith Region, Nt, Canada",666.6666650109307,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102191,"Unnamed fire in Moffat County, Colorado",319.99999920524675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102192,"Unnamed fire in Division No. 18, Sk, Canada",114.28571400187383,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102194,"Unnamed fire in Division No. 18, Sk, Canada",1781.8181773928504,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102196,"Unnamed fire in Saline County, Kansas",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102198,"Unnamed fire in Fort Smith Region, Nt, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102207,"Unnamed fire in Scott County, Missouri",171.42857100281074,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102219,"Unnamed fire in Division No. 16, Ab, Canada",3839.9999904629603,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102222,"Unnamed fire in Yukon-koyukuk County, Alaska",2285.7142800374763,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102225,"Unnamed fire in Northern Rockies Regional District, Bc, Canada",53.33333320087445,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102236,"Unnamed fire in Grant County, Oregon",366.01307098639325,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102244,"Unnamed fire in Division No. 17, Ab, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102254,"Unnamed fire in Division No. 18, Sk, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102257,"Unnamed fire in Fort Smith Region, Nt, Canada",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102260,"Unnamed fire in Division No. 17, Ab, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102261,"Unnamed fire in Fort Smith Region, Nt, Canada",2921.7391231783367,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102268,"Unnamed fire in Fort Smith Region, Nt, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102271,"Unnamed fire in Division No. 18, Sk, Canada",799.9999980131167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102280,"Unnamed fire in Fort Smith Region, Nt, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102283,"Unnamed fire in Division No. 17, Ab, Canada",559.9999986091817,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102417,"Unnamed fire in Division No. 17, Ab, Canada",4147.199989699995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102422,"Unnamed fire in Yukon-koyukuk County, Alaska",2079.9999948341033,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102430,"Unnamed fire in Yukon-koyukuk County, Alaska",4572.413781747383,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102451,"Unnamed fire in Division No. 16, Ab, Canada",5705.747112265961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E102548,"Unnamed fire in Fort Smith Region, Nt, Canada",4967.741923145963,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103131,"Unnamed fire in Yukon-koyukuk County, Alaska",2823.529404752178,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103133,"Unnamed fire in Yukon-koyukuk County, Alaska",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103134,"Unnamed fire in Division No. 17, Ab, Canada",2909.0909018658795,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103147,"Unnamed fire in Division No. 17, Ab, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103148,"Unnamed fire in Division No. 17, Ab, Canada",219.99999945360705,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103174,"Unnamed fire in Fort Smith Region, Nt, Canada",499.99999875819793,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103178,Unknown Fire,399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103189,"Unnamed fire in Yukon-koyukuk County, Alaska",981.8181793797344,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103195,"Unnamed fire in Fort Smith Region, Nt, Canada",209.99999947844304,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103196,"Unnamed fire in Fort Smith Region, Nt, Canada",274.6835436215923,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103201,"Unnamed fire in Yukon, Yt, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103206,"Unnamed fire in Fort Smith Region, Nt, Canada",85.71428550140534,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103207,"Unnamed fire in Division No. 10, Nl, Canada",319.99999920524675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103211,"Unnamed fire in Yukon, Yt, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103213,"Unnamed fire in Division No. 18, Sk, Canada",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103215,"Unnamed fire in Yukon-koyukuk County, Alaska",571.4285700093691,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103219,"Unnamed fire in Yukon, Yt, Canada",311.1111103384343,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103241,"Unnamed fire in Division No. 18, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103247,"Unnamed fire in Division No. 16, Ab, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103273,"Unnamed fire in Division No. 10, Nl, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103276,"Unnamed fire in Fort Smith Region, Nt, Canada",9199.999977150845,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103277,"Unnamed fire in Yukon, Yt, Canada",266.66666600437225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103278,"Unnamed fire in Yukon, Yt, Canada",75.67567548772726,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103281,"Unnamed fire in Division No. 17, Ab, Canada",171.42857100281074,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103282,"Unnamed fire in Division No. 17, Ab, Canada",959.9999976157402,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103310,"Unnamed fire in Division No. 18, Sk, Canada",4277.777767153474,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103320,"Unnamed fire in Division No. 18, Sk, Canada",355.5555546724964,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103332,"Unnamed fire in Division No. 18, Sk, Canada",3555.555546724965,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103343,"Unnamed fire in Division No. 16, Ab, Canada",26491.38269973693,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103346,"Unnamed fire in Division No. 17, Mb, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103355,"Unnamed fire in Division No. 16, Ab, Canada",10559.999973773138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103356,"Unnamed fire in Fort Smith Region, Nt, Canada",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103379,"Unnamed fire in Division No. 16, Ab, Canada",3545.4545366490383,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103385,"Unnamed fire in Fort Smith Region, Nt, Canada",8939.24048412759,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103388,"Unnamed fire in Division No. 16, Ab, Canada",4126.984116734332,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103553,"Unnamed fire in Division No. 15, Sk, Canada",319.99999920524675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103557,"Unnamed fire in Fort Smith Region, Nt, Canada",4829.999988004195,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103558,"Unnamed fire in Division No. 18, Sk, Canada",218.18181763994102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103559,"Unnamed fire in Division No. 18, Sk, Canada",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103560,"Unnamed fire in Division No. 17, Ab, Canada",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103561,"Unnamed fire in Division No. 17, Ab, Canada",133.33333300218612,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103562,"Unnamed fire in Division No. 16, Ab, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103565,"Unnamed fire in Division No. 17, Ab, Canada",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103566,"Unnamed fire in Division No. 18, Sk, Canada",3624.2603460283576,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103570,"Unnamed fire in Fort Smith Region, Nt, Canada",92.30769207843656,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103571,"Unnamed fire in Division No. 18, Sk, Canada",7075.549432976559,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103580,"Unnamed fire in Division No. 16, Ab, Canada",4799.999988078701,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103583,"Unnamed fire in Division No. 18, Sk, Canada",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103587,"Unnamed fire in Fort Smith Region, Nt, Canada",319.99999920524675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103592,"Unnamed fire in Division No. 16, Ab, Canada",1599.9999960262335,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103597,"Unnamed fire in Division No. 18, Sk, Canada",1199.9999970196754,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103598,"Unnamed fire in Cochrane District, On, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103602,"Unnamed fire in Fort Smith Region, Nt, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103605,"Unnamed fire in Nome County, Alaska",239.99999940393508,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103613,"Unnamed fire in Fort Smith Region, Nt, Canada",1223.529408725943,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103614,"Unnamed fire in Mississippi County, Missouri",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103615,"Unnamed fire in Division No. 18, Sk, Canada",159.99999960262338,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103616,"Unnamed fire in Division No. 18, Sk, Canada",999.999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103621,"Unnamed fire in Yukon-koyukuk County, Alaska",1249.999996895495,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103629,"Unnamed fire in Fort Smith Region, Nt, Canada",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103631,"Unnamed fire in Fort Smith Region, Nt, Canada",743.3628300121883,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103633,"Unnamed fire in Nord-du-québec, Qc, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103636,"Unnamed fire in Division No. 18, Sk, Canada",2133.333328034978,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103638,"Unnamed fire in Division No. 18, Sk, Canada",1599.9999960262337,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103641,"Unnamed fire in Fort Smith Region, Nt, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103643,"Unnamed fire in Fort Smith Region, Nt, Canada",4457.1428460730785,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103645,"Unnamed fire in Fort Smith Region, Nt, Canada",218.18181763994096,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103646,"Unnamed fire in Fort Smith Region, Nt, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103647,"Unnamed fire in Fort Smith Region, Nt, Canada",149.9999996274594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103650,"Unnamed fire in Division No. 18, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103654,"Unnamed fire in Division No. 17, Ab, Canada",3441.5094254149167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103665,"Unnamed fire in Mississippi County, Missouri",543.9999986489194,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103668,"Unnamed fire in Division No. 18, Sk, Canada",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103677,"Unnamed fire in Cherokee County, Kansas",581.818180373176,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103680,"Unnamed fire in Division No. 18, Sk, Canada",14161.51416041195,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103684,"Unnamed fire in Division No. 16, Ab, Canada",5771.1110967779505,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103685,"Unnamed fire in Division No. 16, Ab, Canada",2635.2941111020323,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103708,"Unnamed fire in Division No. 18, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103713,"Unnamed fire in Grant County, Oregon",959.9999976157402,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103724,"Unnamed fire in Stoddard County, Missouri",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103729,"Unnamed fire in Division No. 18, Sk, Canada",266.66666600437225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103733,"Unnamed fire in Fort Smith Region, Nt, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103741,"Unnamed fire in Division No. 16, Ab, Canada",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103745,"Unnamed fire in Division No. 18, Sk, Canada",266.66666600437225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103766,"Unnamed fire in Yukon-koyukuk County, Alaska",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103773,"Unnamed fire in Yukon-koyukuk County, Alaska",5226.6666536856965,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103780,"Unnamed fire in Division No. 18, Sk, Canada",426.66666560699565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103787,"Unnamed fire in Division No. 19, Mb, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103811,"Unnamed fire in Barber County, Kansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103814,"Unnamed fire in Allen County, Kansas",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103832,"Unnamed fire in Division No. 18, Sk, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103833,"Unnamed fire in Division No. 16, Ab, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103891,"Unnamed fire in Yukon-koyukuk County, Alaska",479.99999880787016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103897,"Unnamed fire in Bethel County, Alaska",666.6666650109308,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103926,"Unnamed fire in Bethel County, Alaska",1333.3333300218612,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103935,"Unnamed fire in Bethel County, Alaska",1333.3333300218615,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103947,"Unnamed fire in Yukon-koyukuk County, Alaska",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103952,"Unnamed fire in Fort Smith Region, Nt, Canada",479.99999880787016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103958,"Unnamed fire in Yukon-koyukuk County, Alaska",6582.857126507928,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103968,"Unnamed fire in Yukon-koyukuk County, Alaska",7288.888870786162,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103982,"Unnamed fire in Yukon-koyukuk County, Alaska",333.3333325054653,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E103984,"Unnamed fire in Yukon-koyukuk County, Alaska",159.99999960262338,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E104010,"Unnamed fire in Nome County, Alaska",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E104024,"Unnamed fire in Yukon-koyukuk County, Alaska",1599.9999960262335,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E104095,"Unnamed fire in Yukon-koyukuk County, Alaska",2674.5097972791455,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E104193,"Unnamed fire in Yukon-koyukuk County, Alaska",4173.831765334789,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E87349,"Unnamed fire in Bethel County, Alaska",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E90973,"Unnamed fire in Fort Smith Region, Nt, Canada",1420.224715573848,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E92261,"Unnamed fire in Division No. 18, Sk, Canada",1015.3846128628021,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E92857,"Unnamed fire in Yukon-koyukuk County, Alaska",1063.9175231308461,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E92920,"Unnamed fire in Division No. 16, Ab, Canada",1931.0344779626957,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E92940,"Unnamed fire in Yukon-koyukuk County, Alaska",2997.101441831748,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E93597,"Unnamed fire in Socorro County, New Mexico",944.5783109070536,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E93682,"Unnamed fire in Yukon-koyukuk County, Alaska",850.6329092797699,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E94237,"Unnamed fire in Yukon-koyukuk County, Alaska",2230.5882297542194,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E94250,"Unnamed fire in Nome County, Alaska",410.2564092374959,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E94269,"Unnamed fire in Yukon-koyukuk County, Alaska",439.99999890721426,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E94276,"Unnamed fire in Yukon-koyukuk County, Alaska",854.7945184249741,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E94367,"Unnamed fire in Yukon-koyukuk County, Alaska",1871.9999953506938,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E94418,"Unnamed fire in Yukon-koyukuk County, Alaska",1807.9999955096448,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E94610,"Unnamed fire in Yukon-koyukuk County, Alaska",4566.037724508831,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E95394,"Unnamed fire in Dillingham County, Alaska",1580.487800952743,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E95503,"Unnamed fire in Yukon-koyukuk County, Alaska",2359.999994138694,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E95504,"Unnamed fire in Bethel County, Alaska",1631.3725449679243,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E95526,"Unnamed fire in Yukon-koyukuk County, Alaska",342.8571420056215,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E95585,"Unnamed fire in Yukon-koyukuk County, Alaska",4671.604926669185,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E95615,"Unnamed fire in Yukon-koyukuk County, Alaska",2038.9610338970672,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E95701,"Unnamed fire in Yukon-koyukuk County, Alaska",1899.9999952811525,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E95809,"Unnamed fire in Yukon-koyukuk County, Alaska",1679.9999958275453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E95827,"Unnamed fire in Bethel County, Alaska",578.1249985641666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E95830,"Unnamed fire in Yukon-koyukuk County, Alaska",654.5454529198229,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E96199,"Unnamed fire in Yukon-koyukuk County, Alaska",4347.619036821285,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E96942,"Unnamed fire in Division No. 16, Ab, Canada",5790.476176094943,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E97397,"Unnamed fire in Yukon-koyukuk County, Alaska",1987.8787829416835,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E97597,"Unnamed fire in Fort Smith Region, Nt, Canada",7999.999980131174,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E97768,"Unnamed fire in Fort Smith Region, Nt, Canada",1490.076332177104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E97825,"Unnamed fire in Division No. 18, Sk, Canada",8601.36984165129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E98089,"Unnamed fire in Division No. 18, Sk, Canada",9081.818159262542,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E98144,"Unnamed fire in Yukon-koyukuk County, Alaska",2069.565212251324,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E98348,"Unnamed fire in Division No. 18, Sk, Canada",8296.296275691584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E98474,"Unnamed fire in Yukon-koyukuk County, Alaska",7777.777758460856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E98957,"Unnamed fire in Yukon-koyukuk County, Alaska",2839.772720219858,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E99075,"Unnamed fire in Division No. 12, Ab, Canada",5027.692295205516,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E99109,"Unnamed fire in Division No. 16, Ab, Canada",3054.545446959175,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E99126,"Unnamed fire in Fort Smith Region, Nt, Canada",719.9999982118052,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E99238,"Unnamed fire in Yukon-koyukuk County, Alaska",4991.999987601846,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E99264,"Unnamed fire in Peace River Regional District, Bc, Canada",3222.2222142194973,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E99375,"Unnamed fire in Northern Rockies Regional District, Bc, Canada",349.99999913073844,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E99394,"Unnamed fire in Division No. 18, Sk, Canada",1391.3043443706376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E99409,"Unnamed fire in Division No. 18, Sk, Canada",8470.588214256532,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E99483,"Unnamed fire in Stoddard County, Missouri",666.6666650109306,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E99505,"Unnamed fire in Fort Smith Region, Nt, Canada",3239.9999919531215,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E99619,"Unnamed fire in Division No. 17, Ab, Canada",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E99699,"Unnamed fire in Fort Smith Region, Nt, Canada",1907.4074026701642,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E99859,"Unnamed fire in Division No. 18, Sk, Canada",933.3333310153029,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E99890,"Unnamed fire in Yukon, Yt, Canada",2968.6746914221676,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

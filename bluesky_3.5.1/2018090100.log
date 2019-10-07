@@ -1,0 +1,2 @@
+Script set_AIRPACT_fire_season.csh is setting environment variable SEASON to be WILDFIRE
+fire_locations.csv file not found; stopping fire processing

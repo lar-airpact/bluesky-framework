@@ -1,0 +1,431 @@
+id,event_name,total_area,total_heat,total_pm25,total_pm10,total_pm,total_co,total_co2,total_ch4,total_nmhc,total_nox,total_nh3,total_so2,total_voc,total_bc,total_h2,total_nmoc,total_no,total_no2,total_oc,total_tpc,total_tpm
+SF11E108553,"Unnamed fire in Maui County, Hawaii",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E109302,"Unnamed fire in Yukon-koyukuk County, Alaska",1599.9999960262332,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E109302,"Unnamed fire in Yukon-koyukuk County, Alaska",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E109566,"Unnamed fire in Yukon-koyukuk County, Alaska",1499.9999962745937,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E110017,"Unnamed fire in Yukon-koyukuk County, Alaska",2599.9999935426304,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E110017,"Unnamed fire in Yukon-koyukuk County, Alaska",499.99999875819833,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E110391,"Unnamed fire in Division No. 19, Mb, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111012,"Unnamed fire in Northwest Arctic County, Alaska",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111012,"Unnamed fire in Northwest Arctic County, Alaska",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111058,"Unnamed fire in Coconino County, Arizona",69.99999982614773,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111058,"Unnamed fire in Coconino County, Arizona",349.9999991307386,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111084,"Unnamed fire in Yukon-koyukuk County, Alaska",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111092,"Unnamed fire in Yukon-koyukuk County, Alaska",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111092,"Unnamed fire in Yukon-koyukuk County, Alaska",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111096,"Unnamed fire in Coconino County, Arizona",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111096,"Unnamed fire in Coconino County, Arizona",419.9999989568863,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111096,"Unnamed fire in Coconino County, Arizona",69.9999998261477,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111103,"Unnamed fire in Mohave County, Arizona",159.99999960262338,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111103,"Unnamed fire in Mohave County, Arizona",399.9999990065585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111110,"Unnamed fire in Division No. 22, Mb, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111110,"Unnamed fire in Division No. 22, Mb, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111118,"Unnamed fire in Yukon-koyukuk County, Alaska",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111121,"Unnamed fire in Yukon-koyukuk County, Alaska",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111121,"Unnamed fire in Yukon-koyukuk County, Alaska",699.9999982614772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111469,"Unnamed fire in Yukon-koyukuk County, Alaska",1199.9999970196752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111469,"Unnamed fire in Yukon-koyukuk County, Alaska",499.9999987581979,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111739,"Unnamed fire in Yukon-koyukuk County, Alaska",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111845,"Unnamed fire in Yukon-koyukuk County, Alaska",2999.9999925491866,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111845,"Unnamed fire in Yukon-koyukuk County, Alaska",1699.9999957778718,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111849,"Unnamed fire in Yukon-koyukuk County, Alaska",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111858,"Unnamed fire in Yukon-koyukuk County, Alaska",2399.999994039352,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111858,"Unnamed fire in Yukon-koyukuk County, Alaska",299.99999925491903,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111891,"Unnamed fire in Yukon-koyukuk County, Alaska",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111891,"Unnamed fire in Yukon-koyukuk County, Alaska",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111908,"Unnamed fire in Yukon, Yt, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111911,"Unnamed fire in Yukon-koyukuk County, Alaska",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111948,"Unnamed fire in Mexicali, Baja California, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111949,"Unnamed fire in Yukon-koyukuk County, Alaska",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111949,"Unnamed fire in Yukon-koyukuk County, Alaska",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111951,"Unnamed fire in Northwest Arctic County, Alaska",299.99999925491875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111951,"Unnamed fire in Northwest Arctic County, Alaska",1899.999995281153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111956,"Unnamed fire in Division No. 22, Mb, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111956,"Unnamed fire in Division No. 22, Mb, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111960,"Unnamed fire in Coryell County, Texas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111966,"Unnamed fire in Division No. 19, Mb, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111966,"Unnamed fire in Division No. 19, Mb, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E111992,"Unnamed fire in Yukon-koyukuk County, Alaska",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112126,"Unnamed fire in Northwest Arctic County, Alaska",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112429,"Unnamed fire in Yukon-koyukuk County, Alaska",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112429,"Unnamed fire in Yukon-koyukuk County, Alaska",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112444,"Unnamed fire in Madera County, California",425.9999989419847,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112444,"Unnamed fire in Madera County, California",557.999998614149,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112473,"Unnamed fire in Yukon-koyukuk County, Alaska",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112523,"Unnamed fire in Nevada County, California",139.99999965229543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112523,"Unnamed fire in Nevada County, California",979.999997566068,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112523,"Unnamed fire in Nevada County, California",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112526,"Unnamed fire in Rosebud County, Montana",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112526,"Unnamed fire in Rosebud County, Montana",289.99999927975483,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112532,"Unnamed fire in Karnes County, Texas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112541,"Unnamed fire in Yukon-koyukuk County, Alaska",3999.9999900655844,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112541,"Unnamed fire in Yukon-koyukuk County, Alaska",4399.999989072143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112557,"Unnamed fire in Coconino County, Arizona",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112557,"Unnamed fire in Coconino County, Arizona",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112574,"Unnamed fire in Starr County, Texas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112580,"Unnamed fire in Mexicali, Baja California, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112581,"Unnamed fire in Yukon-koyukuk County, Alaska",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112582,"Unnamed fire in Reynosa, Tamaulipas, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112599,"Unnamed fire in Grant County, Oklahoma",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112603,"Unnamed fire in Southampton County, Virginia",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112608,"Unnamed fire in Division No. 17, Mb, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112619,"Unnamed fire in San Luis Rio Colorado, Sonora, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112625,"Unnamed fire in Mexicali, Baja California, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112625,"Unnamed fire in Mexicali, Baja California, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112630,"Unnamed fire in Aiken County, South Carolina",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112640,"Unnamed fire in Barnwell County, South Carolina",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112654,"Unnamed fire in Yukon-koyukuk County, Alaska",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112717,"Unnamed fire in Decatur County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112717,"Unnamed fire in Decatur County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112721,"Unnamed fire in Division No. 19, Mb, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112922,"Unnamed fire in Miguel Aleman, Tamaulipas, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112922,"Unnamed fire in Miguel Aleman, Tamaulipas, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112950,"Unnamed fire in Mexicali, Baja California, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E112950,"Unnamed fire in Mexicali, Baja California, Mexico",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113101,"Unnamed fire in Reynosa, Tamaulipas, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113102,"Unnamed fire in Williams County, North Dakota",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113103,"Unnamed fire in Division No. 23, Mb, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113105,"Unnamed fire in Division No. 17, Ab, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113106,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113107,"Unnamed fire in Hughes County, Oklahoma",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113108,"Unnamed fire in Mexicali, Baja California, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113109,"Unnamed fire in Garfield County, Oklahoma",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113110,"Unnamed fire in Uvalde County, Texas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113111,"Unnamed fire in Yukon-koyukuk County, Alaska",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113112,"Unnamed fire in Atascosa County, Texas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113113,"Unnamed fire in Stephens County, Oklahoma",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113114,"Unnamed fire in Dickinson County, Kansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113115,"Unnamed fire in Baker County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113116,"Unnamed fire in Hoke County, North Carolina",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113117,"Unnamed fire in Yukon-koyukuk County, Alaska",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113118,"Unnamed fire in Vermilion County, Louisiana",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113119,"Unnamed fire in Gates County, North Carolina",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113120,"Unnamed fire in Division No.  4, Mb, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113121,"Unnamed fire in Division No. 10, Ab, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113122,"Unnamed fire in Sweetwater County, Wyoming",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113123,"Unnamed fire in Cameron County, Texas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113124,"Unnamed fire in Atoka County, Oklahoma",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113125,"Unnamed fire in Comanche County, Oklahoma",149.9999996274594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113126,"Unnamed fire in Yukon-koyukuk County, Alaska",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113127,"Unnamed fire in Pontotoc County, Mississippi",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113128,"Unnamed fire in Division No. 17, Ab, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113129,"Unnamed fire in Hoke County, North Carolina",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113130,"Unnamed fire in Willacy County, Texas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113131,"Unnamed fire in Yukon-koyukuk County, Alaska",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113132,"Unnamed fire in Yukon-koyukuk County, Alaska",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113133,"Unnamed fire in Division No. 16, Ab, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113134,"Unnamed fire in Big Horn County, Montana",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113135,"Unnamed fire in Scotland County, North Carolina",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113135,"Unnamed fire in Scotland County, North Carolina",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113136,"Unnamed fire in Walton County, Florida",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113137,"Unnamed fire in Northampton County, North Carolina",74.9999998137297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113138,"Unnamed fire in Saline County, Kansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113139,"Unnamed fire in Lincoln County, New Mexico",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113140,"Unnamed fire in Cabo Rojo County, Puerto Rico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113141,"Unnamed fire in Division No. 22, Mb, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113142,"Unnamed fire in Putnam County, Ohio",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113143,"Unnamed fire in Comanche County, Oklahoma",149.9999996274594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113144,"Unnamed fire in Millard County, Utah",45.99999988575422,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113145,"Unnamed fire in Yukon-koyukuk County, Alaska",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113146,"Unnamed fire in Escambia County, Alabama",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113146,"Unnamed fire in Escambia County, Alabama",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113147,"Unnamed fire in Autauga County, Alabama",121.99999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113148,"Unnamed fire in Santa Rosa County, Florida",139.99999965229543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113149,"Unnamed fire in Palm Beach County, Florida",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113150,"Unnamed fire in Lauderdale County, Mississippi",121.99999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113150,"Unnamed fire in Lauderdale County, Mississippi",121.99999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113151,"Unnamed fire in Bladen County, North Carolina",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113152,"Unnamed fire in Pawnee County, Oklahoma",149.9999996274594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113153,"Unnamed fire in York County, Pennsylvania",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113154,"Unnamed fire in Washington County, Alabama",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E113155,"Unnamed fire in Guayama County, Puerto Rico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114041,"Unnamed fire in Champoton, Campeche, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114042,"Unnamed fire in Division No. 17, Ab, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114042,"Unnamed fire in Division No. 17, Ab, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114043,"Unnamed fire in Guayama County, Puerto Rico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114044,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114044,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114045,"Unnamed fire in Bulloch County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114046,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114046,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114047,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114047,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114048,"Unnamed fire in Gomez Palacio, Durango, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114049,"Unnamed fire in Liberty County, Florida",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114050,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114051,"Unnamed fire in Tamiahua, Veracruz, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114051,"Unnamed fire in Tamiahua, Veracruz, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114052,"Unnamed fire in San Patricio County, Texas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114053,"Unnamed fire in Anson County, North Carolina",121.99999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114054,"Unnamed fire in Hopelchen, Campeche, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114055,"Unnamed fire in Liberty County, Florida",909.9999977399203,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114056,"Unnamed fire in Centla, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114057,"Unnamed fire in Aldama, Tamaulipas, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114058,"Unnamed fire in Umatilla County, Oregon",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114059,"Unnamed fire in Peto, Yucatan, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114060,"Unnamed fire in Fresno County, California",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114061,"Unnamed fire in Washington County, Florida",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114062,"Unnamed fire in Hardin County, Texas",139.99999965229543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114063,"Unnamed fire in Fremont County, Wyoming",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114064,"Unnamed fire in Sumner County, Kansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114065,"Unnamed fire in Tamiahua, Veracruz, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114066,"Unnamed fire in Murray County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114067,"Unnamed fire in Cooke County, Texas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114068,"Unnamed fire in Huimanguillo, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114069,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114070,"Unnamed fire in Division No. 19, Mb, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114071,"Unnamed fire in Sweetwater County, Wyoming",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114072,"Unnamed fire in Macuspana, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114073,"Unnamed fire in Reynosa, Tamaulipas, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114074,"Unnamed fire in Fort Smith Region, Nt, Canada",399.9999990065584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114075,"Unnamed fire in Yellowstone County, Montana",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114076,"Unnamed fire in Coconino County, Arizona",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114077,"Unnamed fire in Chelan County, Washington",45.99999988575422,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114078,"Unnamed fire in Henry County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114079,"Unnamed fire in Macuspana, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114080,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114081,"Unnamed fire in Huimanguillo, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114082,"Unnamed fire in Wyoming County, Pennsylvania",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114083,"Unnamed fire in Madison County, Florida",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114084,"Unnamed fire in Vermilion County, Louisiana",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114085,"Unnamed fire in Hopelchen, Campeche, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114086,"Unnamed fire in Jackson County, Alabama",121.99999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114087,"Unnamed fire in Escambia County, Alabama",209.99999947844316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114088,"Unnamed fire in Marengo County, Alabama",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114089,"Unnamed fire in Palizada, Campeche, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114090,"Unnamed fire in Bolivar County, Mississippi",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114091,"Unnamed fire in Centre County, Pennsylvania",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114092,"Unnamed fire in Whitfield County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114093,"Unnamed fire in Neosho County, Kansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114093,"Unnamed fire in Neosho County, Kansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114094,"Unnamed fire in Kay County, Oklahoma",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114095,"Unnamed fire in Seminole County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114096,"Unnamed fire in Aldama, Tamaulipas, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114097,"Unnamed fire in Clinton County, Pennsylvania",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114099,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114100,"Unnamed fire in Jonuta, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114101,"Unnamed fire in Monroe County, Arkansas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114102,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114103,"Unnamed fire in Hendry County, Florida",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114104,"Unnamed fire in Burgos, Tamaulipas, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114105,"Unnamed fire in San Juan Evangelista, Veracruz, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114106,"Unnamed fire in Elmore County, Alabama",121.99999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114107,"Unnamed fire in Mobile County, Alabama",74.9999998137297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114108,"Unnamed fire in Kenora District, On, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114109,"Unnamed fire in Mexicali, Baja California, Mexico",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114109,"Unnamed fire in Mexicali, Baja California, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114110,"Unnamed fire in Crisp County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114111,"Unnamed fire in Winkler County, Texas",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114112,"Unnamed fire in Charlotte County, Virginia",121.99999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114113,"Unnamed fire in Cardenas, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114113,"Unnamed fire in Cardenas, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114114,"Unnamed fire in Burke County, Georgia",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114115,"Unnamed fire in Bacon County, Georgia",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114116,"Unnamed fire in Appling County, Georgia",239.99999940393502,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114117,"Unnamed fire in Escambia County, Alabama",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114118,"Unnamed fire in Vermilion County, Louisiana",149.9999996274594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114119,"Unnamed fire in Monroe County, Alabama",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114120,"Unnamed fire in Thomas County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114121,"Unnamed fire in Canadian County, Oklahoma",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114122,"Unnamed fire in Bay County, Florida",139.99999965229543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114123,"Unnamed fire in Ben Hill County, Georgia",699.9999982614772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114124,"Unnamed fire in Johnson County, Wyoming",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114125,"Unnamed fire in Mexicali, Baja California, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114126,"Unnamed fire in Camargo, Tamaulipas, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114127,"Unnamed fire in Yukon-koyukuk County, Alaska",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114128,"Unnamed fire in Macuspana, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114129,"Unnamed fire in Dekalb County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114130,"Unnamed fire in Yukon-koyukuk County, Alaska",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114131,"Unnamed fire in Jackson County, Florida",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114132,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114132,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114133,"Unnamed fire in Ottawa County, Kansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114134,"Unnamed fire in Comalcalco, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114134,"Unnamed fire in Comalcalco, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114135,"Unnamed fire in Dallas County, Alabama",121.99999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114136,"Unnamed fire in Polk County, Arkansas",121.99999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114137,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114138,"Unnamed fire in Coahoma County, Mississippi",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114139,"Unnamed fire in Rio Bravo, Tamaulipas, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114140,"Unnamed fire in Terrell County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114141,"Unnamed fire in Baker County, Georgia",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114142,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114143,"Unnamed fire in Anahuac, Nuevo Leon, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114144,"Unnamed fire in Walsh County, North Dakota",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114145,"Unnamed fire in Yukon-koyukuk County, Alaska",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114146,"Unnamed fire in Red River County, Texas",74.9999998137297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114147,"Unnamed fire in Lancaster County, South Carolina",209.99999947844316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114148,"Unnamed fire in Huimanguillo, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114148,"Unnamed fire in Huimanguillo, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114149,"Unnamed fire in Oglethorpe County, Georgia",139.99999965229543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114150,"Unnamed fire in Washita County, Oklahoma",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114151,"Unnamed fire in Clarke County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114152,"Unnamed fire in Champoton, Campeche, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114152,"Unnamed fire in Champoton, Campeche, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114153,"Unnamed fire in Stewart County, Georgia",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114154,"Unnamed fire in Macuspana, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114155,"Unnamed fire in Liberty County, Florida",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114156,"Unnamed fire in Mitchell County, Georgia",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114157,"Unnamed fire in Centro, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114158,"Unnamed fire in Jefferson County, Alabama",121.99999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114159,"Unnamed fire in Contra Costa County, California",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114160,"Unnamed fire in Huimanguillo, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114161,"Unnamed fire in Centro, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114161,"Unnamed fire in Centro, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114162,"Unnamed fire in Clay County, Texas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114163,"Unnamed fire in Washington County, Florida",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114164,"Unnamed fire in Livingston County, Michigan",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114165,"Unnamed fire in Clarke County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114166,"Unnamed fire in Tamiahua, Veracruz, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114167,"Unnamed fire in Hancock County, Mississippi",209.99999947844316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114168,"Unnamed fire in Jackson County, Florida",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114169,"Unnamed fire in Taylor County, Florida",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114170,"Unnamed fire in Johnston County, Oklahoma",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114171,"Unnamed fire in Hale County, Texas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114172,"Unnamed fire in Cherokee County, Georgia",121.99999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114173,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114174,"Unnamed fire in Yukon-koyukuk County, Alaska",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114175,"Unnamed fire in Hopelchen, Campeche, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114176,"Unnamed fire in Thomas County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114177,"Unnamed fire in Yukon-koyukuk County, Alaska",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114178,"Unnamed fire in Division No.  4, Mb, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114179,"Unnamed fire in Polk County, Texas",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114180,"Unnamed fire in Clark County, Nevada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114181,"Unnamed fire in Centla, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114182,"Unnamed fire in Felipe Carrillo Puerto, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114183,"Unnamed fire in Irwin County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114184,"Unnamed fire in Sacramento County, California",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114185,"Unnamed fire in Russell County, Alabama",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114186,"Unnamed fire in Worth County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114187,"Unnamed fire in Fort Smith Region, Nt, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114188,"Unnamed fire in Sherman County, Kansas",149.9999996274594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114189,"Unnamed fire in Yukon-koyukuk County, Alaska",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114190,"Unnamed fire in Crawford County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114191,"Unnamed fire in Robeson County, North Carolina",149.9999996274594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114192,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114193,"Unnamed fire in Grant County, Oklahoma",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114194,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114195,"Unnamed fire in Texistepec, Veracruz, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114196,"Unnamed fire in Crawford County, Georgia",74.9999998137297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114197,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114198,"Unnamed fire in Woodson County, Kansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114199,"Unnamed fire in Drew County, Arkansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114200,"Unnamed fire in San Luis Rio Colorado, Sonora, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114201,"Unnamed fire in Barnwell County, South Carolina",349.9999991307386,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114202,"Unnamed fire in Richmond County, North Carolina",419.9999989568863,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114203,"Unnamed fire in Mason County, Texas",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114204,"Unnamed fire in Palizada, Campeche, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114205,"Unnamed fire in Butler County, Alabama",279.99999930459086,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114206,"Unnamed fire in Calhoun County, South Carolina",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114207,"Unnamed fire in Polk County, Texas",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114208,"Unnamed fire in Grant County, Oklahoma",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114209,"Unnamed fire in San Luis Rio Colorado, Sonora, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114210,"Unnamed fire in Jonuta, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114211,"Unnamed fire in Monroe County, Alabama",74.9999998137297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114212,"Unnamed fire in Cunduacan, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114212,"Unnamed fire in Cunduacan, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114213,"Unnamed fire in Centla, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114213,"Unnamed fire in Centla, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114214,"Unnamed fire in Huimanguillo, Tabasco, Mexico",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114215,"Unnamed fire in Calhoun County, Arkansas",139.99999965229543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114216,"Unnamed fire in Centro, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114217,"Unnamed fire in Early County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114218,"Unnamed fire in Troup County, Georgia",121.99999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114219,"Unnamed fire in Noxubee County, Mississippi",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114220,"Unnamed fire in Felipe Carrillo Puerto, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114221,"Unnamed fire in Calhoun County, Arkansas",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114222,"Unnamed fire in Ixmatlahuacan, Veracruz, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114222,"Unnamed fire in Ixmatlahuacan, Veracruz, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114223,"Unnamed fire in Navajo County, Arizona",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114224,"Unnamed fire in Jonuta, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114225,"Unnamed fire in Gordon County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114226,"Unnamed fire in Mexicali, Baja California, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114226,"Unnamed fire in Mexicali, Baja California, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114227,"Unnamed fire in Mexicali, Baja California, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114228,"Unnamed fire in Shelby County, Texas",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114229,"Unnamed fire in Candler County, Georgia",349.9999991307386,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114230,"Unnamed fire in Montgomery County, Alabama",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114231,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114232,"Unnamed fire in Troup County, Georgia",121.99999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114233,"Unnamed fire in Desha County, Arkansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114234,"Unnamed fire in Socorro County, New Mexico",599.9999985098376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114235,"Unnamed fire in Karnes County, Texas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114236,"Unnamed fire in Sevier County, Utah",263.99999934432856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114236,"Unnamed fire in Sevier County, Utah",79.99999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114237,"Unnamed fire in Minatitlan, Veracruz, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114238,"Unnamed fire in Harvey County, Kansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114239,"Unnamed fire in Sweetwater County, Wyoming",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114240,"Unnamed fire in Huimanguillo, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114241,"Unnamed fire in Tamiahua, Veracruz, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114242,"Unnamed fire in Cardenas, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114243,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114244,"Unnamed fire in Mexicali, Baja California, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114244,"Unnamed fire in Mexicali, Baja California, Mexico",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114244,"Unnamed fire in Mexicali, Baja California, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114245,"Unnamed fire in Gustavo Diaz Ordaz, Tamaulipas, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114245,"Unnamed fire in Gustavo Diaz Ordaz, Tamaulipas, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114246,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114247,"Unnamed fire in Felipe Carrillo Puerto, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114248,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114249,"Unnamed fire in Macuspana, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114250,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114251,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114252,"Unnamed fire in Los Herreras, Nuevo Leon, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114253,"Unnamed fire in Miguel Aleman, Tamaulipas, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114254,"Unnamed fire in Jose Maria Morelos, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114255,"Unnamed fire in Tzucacab, Yucatan, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114256,"Unnamed fire in Camargo, Tamaulipas, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114257,"Unnamed fire in Campeche, Campeche, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114258,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114259,"Unnamed fire in Huimanguillo, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114260,"Unnamed fire in Campeche, Campeche, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114261,"Unnamed fire in Cuyoaco, Puebla, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114262,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114263,"Unnamed fire in Murray County, Georgia",121.99999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114264,"Unnamed fire in Pendiente, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114265,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114266,"Unnamed fire in Tecoh, Yucatan, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114267,"Unnamed fire in Comalcalco, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114268,"Unnamed fire in Victoria, Tamaulipas, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114269,"Unnamed fire in Anahuac, Nuevo Leon, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114270,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114271,"Unnamed fire in General Teran, Nuevo Leon, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114272,"Unnamed fire in Hopelchen, Campeche, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114273,"Unnamed fire in Escarcega, Campeche, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114274,"Unnamed fire in Centro, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114275,"Unnamed fire in Balancan, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114276,"Unnamed fire in Cadereyta Jimenez, Nuevo Leon, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114277,"Unnamed fire in Champoton, Campeche, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114278,"Unnamed fire in Cotaxtla, Veracruz, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114279,"Unnamed fire in Tamiahua, Veracruz, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114280,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114281,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114282,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114283,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114284,"Unnamed fire in Huimanguillo, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114285,"Unnamed fire in Centro, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114286,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114287,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114288,"Unnamed fire in Centro, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114289,"Unnamed fire in Hopelchen, Campeche, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114290,"Unnamed fire in Agua Dulce, Veracruz, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114291,"Unnamed fire in Hopelchen, Campeche, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114292,"Unnamed fire in Cardenas, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114293,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114294,"Unnamed fire in Sabinas Hidalgo, Nuevo Leon, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114295,"Unnamed fire in Tlacotepec De Benito Juarez, Puebla, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114296,"Unnamed fire in Puebla, Puebla, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114297,"Unnamed fire in Hopelchen, Campeche, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114298,"Unnamed fire in Anahuac, Nuevo Leon, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114299,"Unnamed fire in Centla, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114300,"Unnamed fire in Reynosa, Tamaulipas, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114301,"Unnamed fire in Los Ramones, Nuevo Leon, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114302,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114303,"Unnamed fire in Hopelchen, Campeche, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114304,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114305,"Unnamed fire in Centro, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114306,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114307,"Unnamed fire in Guadalupe Victoria, Puebla, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114308,"Unnamed fire in Ensenada, Baja California, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114309,"Unnamed fire in Jonuta, Tabasco, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E114310,"Unnamed fire in Oxkutzcab, Yucatan, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

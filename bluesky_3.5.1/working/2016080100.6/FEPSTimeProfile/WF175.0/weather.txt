@@ -1,0 +1,11 @@
+sunsetTime=18
+middayTime=14
+predawnTime=4
+minHumid=40.000000
+maxHumid=80.000000
+minTemp=13.000000
+maxTemp=30.000000
+minWindAtFlame=6.000000
+maxWindAtFlame=6.000000
+minWindAloft=6.000000
+maxWindAloft=6.000000

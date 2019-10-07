@@ -1,0 +1,5 @@
+BlueSky Framework version 3.5.1 (rev 39130)
+Emissions period: 20140701 00Z to 20140702 00Z
+Dispersion period: 20140701 00Z to 20140702 00Z
+Provide defaults for missing input fields v3.5.1
+Completed in 10.89 seconds

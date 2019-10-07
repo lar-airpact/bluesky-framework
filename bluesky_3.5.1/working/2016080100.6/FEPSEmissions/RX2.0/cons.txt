@@ -1,0 +1,5 @@
+cons_flm=12.565980
+cons_sts=9.405245
+cons_lts=16.413912
+cons_duff=16.814501
+moist_duff=150.000000

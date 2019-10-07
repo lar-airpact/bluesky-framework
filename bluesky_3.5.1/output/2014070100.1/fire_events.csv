@@ -1,0 +1,272 @@
+id,event_name,total_area,total_heat,total_pm25,total_pm10,total_pm,total_co,total_co2,total_ch4,total_nmhc,total_nox,total_nh3,total_so2,total_voc,total_bc,total_h2,total_nmoc,total_no,total_no2,total_oc,total_tpc,total_tpm
+SF11E605076,"Unnamed fire in Inuvik Region, Nt, Canada",299.9999992549189,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E607273,"Unnamed fire in Inuvik Region, Nt, Canada",599.9999985098377,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E607390,"Unnamed fire in Fort Smith Region, Nt, Canada",499.9999987581984,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E609511,"Unnamed fire in Graham County, Arizona",319.9999992052467,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E611365,"Unnamed fire in Fort Smith Region, Nt, Canada",199.99999950327916,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E612542,"Unnamed fire in Fort Smith Region, Nt, Canada",199.99999950327907,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E613962,"Unnamed fire in Fort Smith Region, Nt, Canada",99.99999975163958,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E614351,"Unnamed fire in Fort Smith Region, Nt, Canada",99.99999975163959,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E614366,"Unnamed fire in Apache County, Arizona",279.9999993045909,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E614386,"Unnamed fire in Fort Smith Region, Nt, Canada",699.9999982614772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E614393,"Unnamed fire in Fort Smith Region, Nt, Canada",99.99999975163958,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E614540,"Unnamed fire in Fort Smith Region, Nt, Canada",899.9999977647565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E614964,"Unnamed fire in Fort Smith Region, Nt, Canada",199.99999950327924,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E614975,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E615387,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E615415,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E615552,"Unnamed fire in Fort Smith Region, Nt, Canada",2099.9999947844326,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E615568,"Unnamed fire in Division No. 16, Ab, Canada",299.99999925491875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E615997,"Unnamed fire in Division No. 16, Ab, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616011,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616067,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616085,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616090,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616096,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616103,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616115,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616144,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616145,"Unnamed fire in Division No. 16, Ab, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616147,"Unnamed fire in Rio Arriba County, New Mexico",321.99999920027955,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616168,"Unnamed fire in Minganie--basse-côte-nord, Qc, Canada",699.9999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616171,"Unnamed fire in Fort Smith Region, Nt, Canada",2199.999994536073,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616814,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616815,"Unnamed fire in Nord-du-québec, Qc, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616827,"Unnamed fire in Division No. 16, Ab, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616830,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616855,"Unnamed fire in Dunklin County, Missouri",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616862,"Unnamed fire in New Madrid County, Missouri",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616863,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616865,"Unnamed fire in Wheeler County, Georgia",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616878,"Unnamed fire in Duplin County, North Carolina",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616884,"Unnamed fire in Mississippi County, Missouri",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616892,"Unnamed fire in Pamlico County, North Carolina",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616899,"Unnamed fire in Fort Smith Region, Nt, Canada",99.99999975163959,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616915,"Unnamed fire in Halifax County, North Carolina",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616925,"Unnamed fire in Grady County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616940,"Unnamed fire in Nevada County, Arkansas",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616951,"Unnamed fire in Inuvik Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616971,"Unnamed fire in Fort Smith Region, Nt, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616980,"Unnamed fire in Union County, Florida",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E616984,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617014,"Unnamed fire in Mexicali, Baja California, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617742,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617743,"Unnamed fire in Decatur County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617744,"Unnamed fire in Hoke County, North Carolina",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617745,"Unnamed fire in Bulloch County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617746,"Unnamed fire in Mexicali, Baja California, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617748,"Unnamed fire in Tallahatchie County, Mississippi",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617749,"Unnamed fire in Dyer County, Tennessee",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617750,"Unnamed fire in Lowndes County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617751,"Unnamed fire in Dyer County, Tennessee",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617752,"Unnamed fire in Mapimi, Durango, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617753,"Unnamed fire in Decatur County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617755,"Unnamed fire in Jackson County, Mississippi",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617756,"Unnamed fire in Graves County, Kentucky",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617757,"Unnamed fire in Stoddard County, Missouri",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617758,"Unnamed fire in Yuma County, Arizona",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617759,"Unnamed fire in Yazoo County, Mississippi",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617760,"Unnamed fire in New Madrid County, Missouri",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617761,"Unnamed fire in Pulaski County, Arkansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617762,"Unnamed fire in Dyer County, Tennessee",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617763,"Unnamed fire in Bolivar County, Mississippi",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617764,"Unnamed fire in Division No. 17, Ab, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617765,"Unnamed fire in Newton County, Texas",74.9999998137297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617766,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617767,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617768,"Unnamed fire in Chihuahua, Chihuahua, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617769,"Unnamed fire in Polk County, Florida",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617770,"Unnamed fire in Ensenada, Baja California, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617771,"Unnamed fire in Hyde County, North Carolina",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617773,"Unnamed fire in Lowndes County, Mississippi",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617774,"Unnamed fire in Douglas County, Oregon",45.99999988575422,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617775,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617776,"Unnamed fire in Irion County, Texas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617777,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617778,"Unnamed fire in Beaufort County, North Carolina",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617779,"Unnamed fire in Mississippi County, Missouri",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617780,"Unnamed fire in Mississippi County, Arkansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617781,"Unnamed fire in Ascension, Chihuahua, Mexico",149.9999996274594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617782,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617783,"Unnamed fire in Reno County, Kansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617784,"Unnamed fire in Pushmataha County, Oklahoma",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617785,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617786,"Unnamed fire in El Fuerte, Sinaloa, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617787,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617788,"Unnamed fire in Bertie County, North Carolina",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617789,"Unnamed fire in Osceola County, Florida",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617790,"Unnamed fire in Kinney County, Texas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617791,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617792,"Unnamed fire in Coahoma County, Mississippi",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617793,"Unnamed fire in Hopelchen, Campeche, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617794,"Unnamed fire in Carlisle County, Kentucky",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617795,"Unnamed fire in Division No. 18, Sk, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617796,"Unnamed fire in Fort Smith Region, Nt, Canada",99.99999975163965,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617797,"Unnamed fire in Division No. 10, Ab, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617798,"Unnamed fire in Kenora District, On, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617799,"Unnamed fire in Quitman County, Mississippi",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617800,"Unnamed fire in Bertie County, North Carolina",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617802,"Unnamed fire in Peace River Regional District, Bc, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617803,"Unnamed fire in Ben Hill County, Georgia",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617804,"Unnamed fire in Division No. 18, Sk, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617805,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617806,"Unnamed fire in Houston County, Alabama",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617807,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617808,"Unnamed fire in Cape Girardeau County, Missouri",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617809,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617810,"Unnamed fire in Tensas County, Louisiana",99.99999975163962,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617811,"Unnamed fire in Charlotte County, Virginia",121.99999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617812,"Unnamed fire in Mexicali, Baja California, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617813,"Unnamed fire in Bolivar County, Mississippi",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617814,"Unnamed fire in Culiacan, Sinaloa, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617815,"Unnamed fire in New Madrid County, Missouri",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617816,"Unnamed fire in Jim Hogg County, Texas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617818,"Unnamed fire in Division No. 16, Ab, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617819,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617820,"Unnamed fire in Monroe County, Mississippi",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617822,"Unnamed fire in Tallahatchie County, Mississippi",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617823,"Unnamed fire in Cassia County, Idaho",149.9999996274594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617824,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617825,"Unnamed fire in Decatur County, Georgia",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617826,"Unnamed fire in Lenoir County, North Carolina",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617827,"Unnamed fire in Yazoo County, Mississippi",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617828,"Unnamed fire in La Salle County, Texas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617829,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617830,"Unnamed fire in Delaware County, Oklahoma",121.99999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617831,"Unnamed fire in Clay County, Arkansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617833,"Unnamed fire in Jose Maria Morelos, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617834,"Unnamed fire in Ahumada, Chihuahua, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617835,"Unnamed fire in Bollinger County, Missouri",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617836,"Unnamed fire in Marion County, South Carolina",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617837,"Unnamed fire in Navarro County, Texas",149.9999996274594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617838,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617839,"Unnamed fire in Covington County, Alabama",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617841,"Unnamed fire in Reynosa, Tamaulipas, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617842,"Unnamed fire in Columbia County, Florida",74.9999998137297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617843,"Unnamed fire in Benton County, Oregon",45.99999988575422,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617844,"Unnamed fire in Lonoke County, Arkansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617845,"Unnamed fire in St. Helena County, Louisiana",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617846,"Unnamed fire in Washington County, Georgia",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617847,"Unnamed fire in Yazoo County, Mississippi",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617848,"Unnamed fire in Grundy County, Tennessee",121.99999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617849,"Unnamed fire in Lincoln County, Arkansas",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617850,"Unnamed fire in Weakley County, Tennessee",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617851,"Unnamed fire in Trinity County, California",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617852,"Unnamed fire in Walton County, Florida",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617853,"Unnamed fire in Jose Maria Morelos, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617854,"Unnamed fire in New Madrid County, Missouri",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617855,"Unnamed fire in Bollinger County, Missouri",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617856,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617857,"Unnamed fire in Yakima County, Washington",45.99999988575422,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617858,"Unnamed fire in Duplin County, North Carolina",74.9999998137297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617859,"Unnamed fire in Orange County, Texas",149.9999996274594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617860,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617861,"Unnamed fire in Jennings County, Indiana",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617862,"Unnamed fire in Caldwell County, Louisiana",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617863,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617864,"Unnamed fire in Mississippi County, Arkansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617865,"Unnamed fire in Lake County, Florida",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617866,"Unnamed fire in Mclean County, Kentucky",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617868,"Unnamed fire in Bladen County, North Carolina",74.9999998137297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617869,"Unnamed fire in Phillips County, Arkansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617870,"Unnamed fire in Guasave, Sinaloa, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617872,"Unnamed fire in Duplin County, North Carolina",74.9999998137297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617873,"Unnamed fire in Mississippi County, Missouri",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617874,"Unnamed fire in Duval County, Texas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617875,"Unnamed fire in Wilcox County, Alabama",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617876,"Unnamed fire in Polk County, Florida",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617877,"Unnamed fire in Gilchrist County, Florida",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617878,"Unnamed fire in Bolivar County, Mississippi",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617880,"Unnamed fire in Spartanburg County, South Carolina",121.99999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617881,"Unnamed fire in Juana Diaz County, Puerto Rico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617882,"Unnamed fire in Perquimans County, North Carolina",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617883,"Unnamed fire in Desoto County, Florida",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617884,"Unnamed fire in Graves County, Kentucky",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617885,"Unnamed fire in Pulaski County, Illinois",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617886,"Unnamed fire in Gadsden County, Florida",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617887,Unknown Fire,199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617888,"Unnamed fire in Benton County, Arkansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617889,"Unnamed fire in Bowie County, Texas",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617890,"Unnamed fire in Fort Smith Region, Nt, Canada",99.99999975163958,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617891,"Unnamed fire in Zapata County, Texas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617893,"Unnamed fire in Clarendon County, South Carolina",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617894,"Unnamed fire in Angostura, Sinaloa, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617895,"Unnamed fire in Othon P. Blanco, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617896,"Unnamed fire in Valladolid, Yucatan, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617898,"Unnamed fire in Volusia County, Florida",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617899,"Unnamed fire in Bolivar County, Mississippi",74.9999998137297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617900,"Unnamed fire in Yazoo County, Mississippi",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617901,"Unnamed fire in Hopelchen, Campeche, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617902,"Unnamed fire in Fort Smith Region, Nt, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617903,"Unnamed fire in Division No. 10, Nl, Canada",199.9999995032792,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617904,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617905,"Unnamed fire in Wayne County, North Carolina",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617906,"Unnamed fire in Jose Maria Morelos, Quintana Roo, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617908,"Unnamed fire in Mississippi County, Arkansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617909,"Unnamed fire in Holmes County, Mississippi",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617910,"Unnamed fire in Sussex County, Virginia",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617911,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617913,"Unnamed fire in Mississippi County, Missouri",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617915,"Unnamed fire in Stoddard County, Missouri",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617916,"Unnamed fire in Division No. 10, Nl, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617917,"Unnamed fire in Phillips County, Arkansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617918,"Unnamed fire in St. Johns County, Florida",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617919,"Unnamed fire in Peace River Regional District, Bc, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617920,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617921,"Unnamed fire in Hernando County, Florida",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617922,"Unnamed fire in Bertie County, North Carolina",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617923,"Unnamed fire in New Madrid County, Missouri",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617924,"Unnamed fire in Graves County, Kentucky",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617925,"Unnamed fire in Rapides County, Louisiana",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617926,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617927,"Unnamed fire in Culiacan, Sinaloa, Mexico",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617928,"Unnamed fire in Dunklin County, Missouri",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617929,"Unnamed fire in Beaufort County, North Carolina",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617930,"Unnamed fire in Napa County, California",549.999998634018,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617931,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617932,"Unnamed fire in Garland County, Arkansas",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617933,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617934,"Unnamed fire in Scott County, Missouri",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617935,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617936,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617937,"Unnamed fire in St. Johns County, Florida",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617938,"Unnamed fire in Jefferson County, Mississippi",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617939,"Unnamed fire in Duplin County, North Carolina",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617940,"Unnamed fire in Division No. 16, Ab, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617941,"Unnamed fire in Division No. 18, Sk, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617942,"Unnamed fire in Montgomery County, Mississippi",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617943,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617944,"Unnamed fire in Phillips County, Arkansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617945,"Unnamed fire in Jefferson County, Illinois",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617946,"Unnamed fire in Hillsborough County, Florida",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617947,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617948,Unknown Fire,99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617949,"Unnamed fire in Fort Smith Region, Nt, Canada",99.99999975163963,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617950,"Unnamed fire in Pitt County, North Carolina",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617951,"Unnamed fire in Walton County, Florida",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617952,"Unnamed fire in Dyer County, Tennessee",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617953,"Unnamed fire in Walton County, Florida",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617954,"Unnamed fire in Tishomingo County, Mississippi",121.99999969700032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617955,"Unnamed fire in Richmond County, North Carolina",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617979,"Unnamed fire in Bertie County, North Carolina",69.99999982614771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E617982,"Unnamed fire in Inuvik Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E618033,"Unnamed fire in Division No. 16, Ab, Canada",399.99999900655854,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E618104,"Unnamed fire in Fort Smith Region, Nt, Canada",299.99999925491886,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E618618,"Unnamed fire in Division No. 10, Nl, Canada",1099.9999972680353,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E618640,"Unnamed fire in Fort Smith Region, Nt, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E618923,"Unnamed fire in Fort Smith Region, Nt, Canada",999.9999975163961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E618946,"Unnamed fire in Fort Smith Region, Nt, Canada",2099.9999947844312,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E619022,"Unnamed fire in Fort Smith Region, Nt, Canada",199.99999950327913,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E619557,"Unnamed fire in Jefferson County, Arkansas",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E619675,"Unnamed fire in Fort Smith Region, Nt, Canada",799.9999980131169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E619895,"Unnamed fire in Division No. 18, Sk, Canada",99.9999997516396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E620054,"Unnamed fire in Division No. 10, Nl, Canada",499.99999875819805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E622268,"Unnamed fire in Fort Smith Region, Nt, Canada",299.9999992549188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E622315,"Unnamed fire in Fort Smith Region, Nt, Canada",399.99999900655854,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E623838,"Unnamed fire in Fort Smith Region, Nt, Canada",199.9999995032791,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E624245,"Unnamed fire in Fort Smith Region, Nt, Canada",799.9999980131187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E626024,"Unnamed fire in Fort Smith Region, Nt, Canada",3799.9999905623104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E628661,"Unnamed fire in Mexicali, Baja California, Mexico",1199.999997019673,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E633159,"Unnamed fire in Fort Smith Region, Nt, Canada",699.9999982614803,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E642386,"Unnamed fire in Fort Smith Region, Nt, Canada",4499.999988823765,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SF11E649299,"Unnamed fire in Fort Smith Region, Nt, Canada",7299.999981869495,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

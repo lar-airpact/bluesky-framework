@@ -1,0 +1,91 @@
+10/17 11:16 BlueSky              DEBUG    Logging Configured
+10/17 11:16 BlueSky              SUMMARY  BlueSky Framework version 3.5.1 (rev 39130)
+10/17 11:16 BlueSky              INFO     Using OUTPUT_DIR: /opt/bluesky/bluesky_3.5.1/output/2016080100.2/
+10/17 11:16 BlueSky              INFO     Using WORK_DIR: /opt/bluesky/bluesky_3.5.1/working/2016080100.2/
+10/17 11:16 BlueSky              DEBUG    Using inputs = ['StandardFiles']
+10/17 11:16 StandardFiles        DEBUG    Created <class 'standard_files.InputStandardFiles'>: InputStandardFiles
+10/17 11:16 StandardFiles        DEBUG    Declared Input[FireInformation]: InputStandardFiles.fires
+10/17 11:16 StandardFiles        DEBUG    Declared Output[FireInformation]: InputStandardFiles.fires
+10/17 11:16 BlueSky              DEBUG    Added node <class 'standard_files.InputStandardFiles'>: InputStandardFiles
+10/17 11:16 BlueSky              DEBUG    Using starts = ['FillDefaultData']
+10/17 11:16 FillDefaultData      WARNING  Disconnecting Output[FireInformation]: MM5LocalMet.fires from Input[FireInformation]: FillDefaultData.fires
+10/17 11:16 FillDefaultData      DEBUG    Connecting Input[FireInformation]: FillDefaultData.fires to Output[FireInformation]: InputStandardFiles.fires
+10/17 11:16 BlueSky              DEBUG    Using outputs = ['StandardFiles']
+10/17 11:16 StandardFiles        DEBUG    Created <class 'standard_files.OutputStandardFiles'>: OutputStandardFiles_FEPSPlumeRise
+10/17 11:16 StandardFiles        DEBUG    Declared Input[FireInformation]: OutputStandardFiles_FEPSPlumeRise.fires
+10/17 11:16 BlueSky              DEBUG    Added node <class 'standard_files.OutputStandardFiles'>: OutputStandardFiles_FEPSPlumeRise
+10/17 11:16 StandardFiles        DEBUG    Connecting Input[FireInformation]: OutputStandardFiles_FEPSPlumeRise.fires to Output[FireInformation]: FEPSPlumeRise.fires
+10/17 11:16 BlueSky              DEBUG    Attaching "OutputStandardFiles" output node to "FEPSPlumeRise" target node
+10/17 11:16 StandardFiles        DEBUG    Evaluating Input[FireInformation]: InputStandardFiles.fires
+10/17 11:16 Context              DEBUG    Creating directory /opt/bluesky/bluesky_3.5.1/working/2016080100.2/InputStandardFiles
+10/17 11:16 StandardFiles        TIMERS   Running Process InputStandardFiles
+10/17 11:16 BlueSky              SUMMARY  Emissions period: 20160801 00Z to 20160802 00Z
+10/17 11:16 BlueSky              SUMMARY  Dispersion period: 20160801 00Z to 20160802 00Z
+10/17 11:16 StandardFiles        INFO     Reading fire locations from standard format file
+10/17 11:16 StandardFiles        INFO     Successfully read 4 fire locations
+10/17 11:16 StandardFiles        DEBUG    set_output(fires, <kernel.types.FireInformation object at 0x2eec6d0>)
+10/17 11:16 StandardFiles        TIMERS   Process InputStandardFiles finished in 0.02 seconds
+10/17 11:16 FillDefaultData      DEBUG    Evaluating Input[FireInformation]: FillDefaultData.fires
+10/17 11:16 Context              DEBUG    Creating directory /opt/bluesky/bluesky_3.5.1/working/2016080100.2/FillDefaultData
+10/17 11:16 FillDefaultData      SUMMARY  Provide defaults for missing input fields v3.5.1
+10/17 11:16 FillDefaultData      DEBUG    FireLocationData: RX0 already has time zone UTC
+10/17 11:16 FillDefaultData      DEBUG    FireLocationData: RX56 already has time zone UTC
+10/17 11:16 FillDefaultData      DEBUG    FireLocationData: WF0 already has time zone UTC
+10/17 11:16 FillDefaultData      DEBUG    FireLocationData: WF56 already has time zone UTC
+10/17 11:16 FillDefaultData      WARNING  FireLocationData: RX0 is before emissions period. Removing fire.
+10/17 11:16 FillDefaultData      WARNING  FireLocationData: RX56 is before emissions period. Removing fire.
+10/17 11:16 FillDefaultData      WARNING  FireLocationData: WF0 is before emissions period. Removing fire.
+10/17 11:16 FillDefaultData      WARNING  FireLocationData: WF56 is before emissions period. Removing fire.
+10/17 11:16 FillDefaultData      WARNING  WARNING: First 24 hours of dispersion results will be empty
+10/17 11:16 FillDefaultData      INFO     Earliest fire in data set ignites 24 hours after analysis period
+10/17 11:16 FillDefaultData      DEBUG    set_output(fires, <kernel.types.FireInformation object at 0x2eec6d0>)
+10/17 11:16 FillDefaultData      TIMERS   Process FillDefaultData finished in 0.22 seconds
+10/17 11:16 DefaultFuelMoisture  DEBUG    Evaluating Input[FireInformation]: DefaultFuelMoisture.fires
+10/17 11:16 Context              DEBUG    Creating directory /opt/bluesky/bluesky_3.5.1/working/2016080100.2/DefaultFuelMoisture
+10/17 11:16 DefaultFuelMoisture  SUMMARY  Provide default fuel moisture information v3.5.1
+10/17 11:16 DefaultFuelMoisture  DEBUG    set_output(fires, <kernel.types.FireInformation object at 0x2eec6d0>)
+10/17 11:16 DefaultFuelMoisture  TIMERS   Process DefaultFuelMoisture finished in 0.00 seconds
+10/17 11:16 GrowthSplit          DEBUG    Evaluating Input[FireInformation]: GrowthSplit.fires
+10/17 11:16 Context              DEBUG    Creating directory /opt/bluesky/bluesky_3.5.1/working/2016080100.2/GrowthSplit
+10/17 11:16 GrowthSplit          SUMMARY  FireTypeSplitter from package BlueSky v3.5.1
+10/17 11:16 GrowthSplit          DEBUG    set_output(wildfires, <kernel.types.FireInformation object at 0x2f03d50>)
+10/17 11:16 GrowthSplit          DEBUG    set_output(prescribed_fires, <kernel.types.FireInformation object at 0x2f03d90>)
+10/17 11:16 GrowthSplit          DEBUG    set_output(other_fires, <kernel.types.FireInformation object at 0x2f03dd0>)
+10/17 11:16 GrowthSplit          TIMERS   Process GrowthSplit finished in 0.00 seconds
+10/17 11:16 WildfireGrowth       DEBUG    Evaluating Input[FireInformation]: WildfireGrowth.fires
+10/17 11:16 Context              DEBUG    Creating directory /opt/bluesky/bluesky_3.5.1/working/2016080100.2/WildfireGrowth
+10/17 11:16 WildfireGrowth       SUMMARY  NoGrowth from package BlueSky v3.5.1
+10/17 11:16 WildfireGrowth       DEBUG    set_output(fires, <kernel.types.FireInformation object at 0x2f03d50>)
+10/17 11:16 WildfireGrowth       TIMERS   Process WildfireGrowth finished in 0.00 seconds
+10/17 11:16 PrescribedFireGrowth DEBUG    Evaluating Input[FireInformation]: PrescribedFireGrowth.fires
+10/17 11:16 Context              DEBUG    Creating directory /opt/bluesky/bluesky_3.5.1/working/2016080100.2/PrescribedFireGrowth
+10/17 11:16 PrescribedFireGrowth SUMMARY  NoGrowth from package BlueSky v3.5.1
+10/17 11:16 PrescribedFireGrowth DEBUG    set_output(fires, <kernel.types.FireInformation object at 0x2f03d90>)
+10/17 11:16 PrescribedFireGrowth TIMERS   Process PrescribedFireGrowth finished in 0.00 seconds
+10/17 11:16 OtherFireGrowth      DEBUG    Evaluating Input[FireInformation]: OtherFireGrowth.fires
+10/17 11:16 Context              DEBUG    Creating directory /opt/bluesky/bluesky_3.5.1/working/2016080100.2/OtherFireGrowth
+10/17 11:16 OtherFireGrowth      SUMMARY  NoGrowth from package BlueSky v3.5.1
+10/17 11:16 OtherFireGrowth      DEBUG    set_output(fires, <kernel.types.FireInformation object at 0x2f03dd0>)
+10/17 11:16 OtherFireGrowth      TIMERS   Process OtherFireGrowth finished in 0.00 seconds
+10/17 11:16 ConsolidateGrowth    DEBUG    Evaluating Input[FireInformation]: ConsolidateGrowth.fires
+10/17 11:16 ConsolidateGrowth    DEBUG    Evaluating Input[int]: ConsolidateGrowth.precedence
+10/17 11:16 Context              DEBUG    Creating directory /opt/bluesky/bluesky_3.5.1/working/2016080100.2/ConsolidateGrowth
+10/17 11:16 ConsolidateGrowth    SUMMARY  ConsolidateFires from package BlueSky v3.5.1
+10/17 11:16 ConsolidateGrowth    DEBUG    Exception while running Process 'ConsolidateGrowth': 
+>>> ERROR: There are currently zero fire locations to burn; stop.
+>>>    File "base/modules/splitter.py", line 47, in run
+>>>      raise Exception("There are currently zero fire locations to burn;
+>>>      stop.")
+>>>
+
+10/17 11:16 BlueSky              INFO     >>> Aborting execution
+10/17 11:16 StandardFiles        DEBUG    Created <class 'standard_files.OutputStandardFiles'>: OutputStandardFiles_ConsolidateGrowth_injected
+10/17 11:16 StandardFiles        DEBUG    Declared Input[FireInformation]: OutputStandardFiles_ConsolidateGrowth_injected.fires
+10/17 11:16 BlueSky              ERROR    >>>
+>>> ERROR: There are currently zero fire locations to burn; stop.
+>>>    File "base/modules/splitter.py", line 47, in run
+>>>      raise Exception("There are currently zero fire locations to burn;
+>>>      stop.")
+>>>
+
+10/17 11:16 BlueSky              SUMMARY  Completed in 0.26 seconds

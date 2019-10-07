@@ -1,0 +1,14 @@
+total 1300
+-rw-r--r-- 1 airpact5 lar     837 Aug 31 09:09 summary.txt
+-rw-r--r-- 1 airpact5 lar 1261357 Aug 31 09:09 fire_locations.csv
+-rw-r--r-- 1 airpact5 lar   64314 Aug 31 09:09 fire_events.csv
+total 1636
+drwxr-xr-x 1 airpact5 lar     222 Aug 31 09:09 .
+drwxr-xr-x 1 airpact5 lar    1274 Aug 31 07:42 ..
+-rw-r--r-- 1 airpact5 lar   18565 Aug 31 09:09 bluesky_job.log
+-rw-r--r-- 1 airpact5 lar   48713 Aug 31 09:09 fire_locations_20190831.kml
+-rw-r--r-- 1 airpact5 lar 1261357 Aug 31 09:09 fire_locations.csv
+-rw-r--r-- 1 airpact5 lar  290415 Aug 31 09:09 ptday-2019083100.orl
+-rw-r--r-- 1 airpact5 lar   41249 Aug 31 09:09 ptinv-2019083100.orl
+-rw-r--r-- 1 airpact5 lar     837 Aug 31 09:09 summary.txt
+END OF SCRIPT BSF_EFO_AP5_SFonly_JKV.csh

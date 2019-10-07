@@ -1,0 +1,71 @@
+02/18 23:40 BlueSky              DEBUG    Logging Configured
+02/18 23:40 BlueSky              SUMMARY  BlueSky Framework version 3.5.1 (rev 39130)
+02/18 23:40 BlueSky              INFO     Using OUTPUT_DIR: /opt/bluesky/bluesky_3.5.1/output/2019021900.1/
+02/18 23:40 BlueSky              INFO     Using WORK_DIR: /opt/bluesky/bluesky_3.5.1/working/2019021900.1/
+02/18 23:40 BlueSky              DEBUG    Using inputs = ['SmartFire2']
+02/18 23:40 SmartFire2           DEBUG    Created <class 'smartfire2.InputSmartFire2'>: InputSmartFire2
+02/18 23:40 SmartFire2           DEBUG    Declared Input[FireInformation]: InputSmartFire2.fires
+02/18 23:40 SmartFire2           DEBUG    Declared Output[FireInformation]: InputSmartFire2.fires
+02/18 23:40 BlueSky              DEBUG    Added node <class 'smartfire2.InputSmartFire2'>: InputSmartFire2
+02/18 23:40 BlueSky              DEBUG    Using starts = ['FillDefaultData']
+02/18 23:40 FillDefaultData      WARNING  Disconnecting Output[FireInformation]: MM5LocalMet.fires from Input[FireInformation]: FillDefaultData.fires
+02/18 23:40 FillDefaultData      DEBUG    Connecting Input[FireInformation]: FillDefaultData.fires to Output[FireInformation]: InputSmartFire2.fires
+02/18 23:40 BlueSky              DEBUG    Using outputs = ['StandardFiles']
+02/18 23:40 StandardFiles        DEBUG    Created <class 'standard_files.OutputStandardFiles'>: OutputStandardFiles_NoPlumeRise
+02/18 23:40 StandardFiles        DEBUG    Declared Input[FireInformation]: OutputStandardFiles_NoPlumeRise.fires
+02/18 23:40 BlueSky              DEBUG    Added node <class 'standard_files.OutputStandardFiles'>: OutputStandardFiles_NoPlumeRise
+02/18 23:40 StandardFiles        DEBUG    Connecting Input[FireInformation]: OutputStandardFiles_NoPlumeRise.fires to Output[FireInformation]: NoPlumeRise.fires
+02/18 23:40 BlueSky              DEBUG    Attaching "OutputStandardFiles" output node to "NoPlumeRise" target node
+02/18 23:40 SmartFire2           DEBUG    Evaluating Input[FireInformation]: InputSmartFire2.fires
+02/18 23:40 Context              DEBUG    Creating directory /opt/bluesky/bluesky_3.5.1/working/2019021900.1/InputSmartFire2
+02/18 23:40 SmartFire2           TIMERS   Running Process InputSmartFire2
+02/18 23:40 BlueSky              SUMMARY  Emissions period: 20190218 00Z to 20190222 00Z
+02/18 23:40 BlueSky              SUMMARY  Dispersion period: 20190219 00Z to 20190222 00Z
+02/18 23:40 SmartFire2           INFO     Downloading fire data for 2019-02-18 from SmartFire2...
+02/18 23:40 SmartFire2           INFO     Downloading fire data for 2019-02-19 from SmartFire2...
+02/18 23:40 SmartFire2           INFO     Downloading fire data for 2019-02-20 from SmartFire2...
+02/18 23:40 SmartFire2           INFO     Downloading fire data for 2019-02-21 from SmartFire2...
+02/18 23:40 SmartFire2           DEBUG    Exception while running Process 'InputSmartFire2': 
+>>> ERROR: SmartFire2 request returned zero fires
+>>>    File "base/modules/smartfire2.py", line 202, in run
+>>>      raise Exception("SmartFire2 request returned zero fires")
+>>>
+
+02/18 23:40 BlueSky              INFO     >>> Aborting execution
+02/18 23:40 StandardFiles        DEBUG    Created <class 'standard_files.OutputStandardFiles'>: OutputStandardFiles_InputSmartFire2_injected
+02/18 23:40 StandardFiles        DEBUG    Declared Input[FireInformation]: OutputStandardFiles_InputSmartFire2_injected.fires
+02/18 23:40 BlueSky              DEBUG    Added node <class 'standard_files.OutputStandardFiles'>: OutputStandardFiles_InputSmartFire2_injected
+02/18 23:40 BlueSky              DEBUG    Attaching "OutputStandardFiles" output node in place of "InputSmartFire2" target node
+02/18 23:40 StandardFiles        DEBUG    Evaluating Input[FireInformation]: OutputStandardFiles_InputSmartFire2_injected.fires
+02/18 23:40 Context              DEBUG    Creating directory /opt/bluesky/bluesky_3.5.1/working/2019021900.1/OutputStandardFiles_InputSmartFire2_injected
+02/18 23:40 StandardFiles        TIMERS   Running Process OutputStandardFiles_InputSmartFire2_injected
+02/18 23:40 StandardFiles        INFO     Writing fire locations to standard format file
+02/18 23:40 StandardFiles        DEBUG    Exception while running Process 'OutputStandardFiles_InputSmartFire2_injected': 
+>>> ERROR: 'NoneType' object has no attribute 'events'
+>>> ERROR TYPE: AttributeError
+>>>    File "base/modules/standard_files.py", line 44, in run
+>>>      self.write_standard_files()
+>>>    File "base/modules/standard_files.py", line 196, in write_standard_files
+>>>      events_table = self.get_events_table(fireInfo)
+>>>    File "base/modules/standard_files.py", line 80, in get_events_table
+>>>      for event in fireInfo.events():
+>>>
+
+02/18 23:40 BlueSky              DEBUG    Error running output process OutputStandardFiles_InputSmartFire2_injected: 
+>>> ERROR: 'NoneType' object has no attribute 'events'
+>>> ERROR TYPE: AttributeError
+>>>    File "base/modules/standard_files.py", line 44, in run
+>>>      self.write_standard_files()
+>>>    File "base/modules/standard_files.py", line 196, in write_standard_files
+>>>      events_table = self.get_events_table(fireInfo)
+>>>    File "base/modules/standard_files.py", line 80, in get_events_table
+>>>      for event in fireInfo.events():
+>>>
+
+02/18 23:40 BlueSky              ERROR    >>>
+>>> ERROR: SmartFire2 request returned zero fires
+>>>    File "base/modules/smartfire2.py", line 202, in run
+>>>      raise Exception("SmartFire2 request returned zero fires")
+>>>
+
+02/18 23:40 BlueSky              SUMMARY  Completed in 14.32 seconds

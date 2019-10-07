@@ -1,0 +1,737 @@
+02/01 09:30 BlueSky              DEBUG    Logging Configured
+02/01 09:30 BlueSky              SUMMARY  BlueSky Framework version 3.5.1 (rev 39130)
+02/01 09:30 BlueSky              INFO     Using OUTPUT_DIR: /opt/bluesky/bluesky_3.5.1/output/2016080100.11/
+02/01 09:30 BlueSky              INFO     Using WORK_DIR: /opt/bluesky/bluesky_3.5.1/working/2016080100.7/
+02/01 09:30 BlueSky              DEBUG    Using inputs = ['StandardFiles']
+02/01 09:30 StandardFiles        DEBUG    Created <class 'standard_files.InputStandardFiles'>: InputStandardFiles
+02/01 09:30 StandardFiles        DEBUG    Declared Input[FireInformation]: InputStandardFiles.fires
+02/01 09:30 StandardFiles        DEBUG    Declared Output[FireInformation]: InputStandardFiles.fires
+02/01 09:30 BlueSky              DEBUG    Added node <class 'standard_files.InputStandardFiles'>: InputStandardFiles
+02/01 09:30 BlueSky              DEBUG    Using starts = ['FillDefaultData']
+02/01 09:30 FillDefaultData      WARNING  Disconnecting Output[FireInformation]: MM5LocalMet.fires from Input[FireInformation]: FillDefaultData.fires
+02/01 09:30 FillDefaultData      DEBUG    Connecting Input[FireInformation]: FillDefaultData.fires to Output[FireInformation]: InputStandardFiles.fires
+02/01 09:30 BlueSky              DEBUG    Using outputs = ['StandardFiles']
+02/01 09:30 StandardFiles        DEBUG    Created <class 'standard_files.OutputStandardFiles'>: OutputStandardFiles_FEPSPlumeRise
+02/01 09:30 StandardFiles        DEBUG    Declared Input[FireInformation]: OutputStandardFiles_FEPSPlumeRise.fires
+02/01 09:30 BlueSky              DEBUG    Added node <class 'standard_files.OutputStandardFiles'>: OutputStandardFiles_FEPSPlumeRise
+02/01 09:30 StandardFiles        DEBUG    Connecting Input[FireInformation]: OutputStandardFiles_FEPSPlumeRise.fires to Output[FireInformation]: FEPSPlumeRise.fires
+02/01 09:30 BlueSky              DEBUG    Attaching "OutputStandardFiles" output node to "FEPSPlumeRise" target node
+02/01 09:30 StandardFiles        DEBUG    Evaluating Input[FireInformation]: InputStandardFiles.fires
+02/01 09:30 Context              DEBUG    Creating directory /opt/bluesky/bluesky_3.5.1/working/2016080100.7/InputStandardFiles
+02/01 09:30 StandardFiles        TIMERS   Running Process InputStandardFiles
+02/01 09:30 BlueSky              SUMMARY  Emissions period: 20160801 00Z to 20160802 00Z
+02/01 09:30 BlueSky              SUMMARY  Dispersion period: 20160801 00Z to 20160802 00Z
+02/01 09:30 StandardFiles        INFO     Reading fire locations from standard format file
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 1,000.0
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 1,390.2
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 2,563.4
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 6,852.6
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 4,518.1
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 1,737.7
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 22,073.5
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 1,348.0
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 1,312.2
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 3,609.4
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 11,279.2
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 2,030.3
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 9,700.1
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 3,553.0
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 2,579.4
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 3,371.5
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 1,000.0
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 1,500.0
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 1,256.8
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 1,000.0
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 1,406.9
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 1,800.0
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 1,350.0
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 3,959.7
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 5,373.9
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 4,471.0
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 5,000.0
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 1,170.0
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 8,597.4
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 3,000.0
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 1,100.0
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 1,000.0
+02/01 09:30 StandardFiles        WARNING  WARNING: <type 'exceptions.ValueError'> Invalid data or type for "area" <type 'str'>: invalid literal for float(): 1,096.9
+02/01 09:30 StandardFiles        INFO     Successfully read 676 fire locations
+02/01 09:30 StandardFiles        DEBUG    set_output(fires, <kernel.types.FireInformation object at 0x3fbc6d0>)
+02/01 09:30 StandardFiles        TIMERS   Process InputStandardFiles finished in 0.27 seconds
+02/01 09:30 FillDefaultData      DEBUG    Evaluating Input[FireInformation]: FillDefaultData.fires
+02/01 09:30 Context              DEBUG    Creating directory /opt/bluesky/bluesky_3.5.1/working/2016080100.7/FillDefaultData
+02/01 09:30 FillDefaultData      SUMMARY  Provide defaults for missing input fields v3.5.1
+02/01 09:30 FillDefaultData      DEBUG    Exception while running Process 'FillDefaultData': 
+>>> ERROR:
+>>> ERROR TYPE: KeyboardInterrupt
+>>>    File "base/modules/fill_data.py", line 39, in run
+>>>      fireInfo = self.fillLocationData(fireInfo)
+>>>    File "base/modules/fill_data.py", line 96, in fillLocationData
+>>>      fireLoc["fips"] = location.fips(fireLoc["latitude"],
+>>>      fireLoc["longitude"])
+>>>    File "[kernel]/location.py", line 77, in fips
+>>>    File "[kernel]/grid.py", line 330, in open_grid
+>>>    File "[kernel]/grid.py", line 197, in __init__
+>>>    File "[kernel]/grid.py", line 215, in getBand
+>>>    File "[kernel]/grid.py", line 299, in __init__
+>>>    File "osgeo/gdal.py", line 835, in ReadAsArray
+>>>    File "osgeo/gdal_array.py", line 138, in BandReadAsArray
+>>>    File "osgeo/gdal.py", line 760, in ReadRaster
+>>>
+
+02/01 09:30 BlueSky              INFO     >>> Aborting execution
+02/01 09:30 StandardFiles        DEBUG    Created <class 'standard_files.OutputStandardFiles'>: OutputStandardFiles_FillDefaultData_injected
+02/01 09:30 StandardFiles        DEBUG    Declared Input[FireInformation]: OutputStandardFiles_FillDefaultData_injected.fires
+02/01 09:30 BlueSky              DEBUG    Added node <class 'standard_files.OutputStandardFiles'>: OutputStandardFiles_FillDefaultData_injected
+02/01 09:30 BlueSky              DEBUG    Attaching "OutputStandardFiles" output node in place of "FillDefaultData" target node
+02/01 09:30 StandardFiles        DEBUG    Evaluating Input[FireInformation]: OutputStandardFiles_FillDefaultData_injected.fires
+02/01 09:30 Context              DEBUG    Creating directory /opt/bluesky/bluesky_3.5.1/working/2016080100.7/OutputStandardFiles_FillDefaultData_injected
+02/01 09:30 StandardFiles        TIMERS   Running Process OutputStandardFiles_FillDefaultData_injected
+02/01 09:30 StandardFiles        INFO     Writing fire locations to standard format file
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: ECY_ADD_1 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_295 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_297 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_298 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_299 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_300 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_301 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_302 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_303 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_304 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_305 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_306 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_308 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_309 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_310 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_311 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_319 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_320 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_321 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_341 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_342 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_344 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_351 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_354 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_358 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_388 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_390 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_391 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_395 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_396 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_403 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_404 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_405 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_406 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_407 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_408 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_409 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_410 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_411 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_412 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_413 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_414 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_415 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_416 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_417 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_418 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_447 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_450 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_451 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_452 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_453 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_456 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_457 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_458 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_459 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_460 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_464 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_465 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_467 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_468 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_469 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_478 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_479 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_483 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_489 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_614 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_615 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_616 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_617 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: EPA_AG_619 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C747981 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C748373 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C761409 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C763008 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C763092 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C763123 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C768269 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C768494 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C768960 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C769668 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C769846 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C769976 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C770315 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C771858 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C771875 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C771909 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C771975 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C772028 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C772028 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C772237 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C772484 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C772490 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C772524 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C772597 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C772828 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C773084 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C773095 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C773095 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C773303 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C773722 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C773746 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C773902 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C774200 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C774498 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C774657 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C774673 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C774834 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C775078 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C775129 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C775347 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C775913 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C776193 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C776237 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C776265 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C776451 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C776484 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C776486 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C776507 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C776510 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C776554 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C776635 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C776668 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C776693 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C776775 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C776807 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C776917 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C776919 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C776924 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C776995 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C777001 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C777039 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C777044 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C777176 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C777243 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C777302 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C777472 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C777517 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C777626 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C777701 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C778179 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C778212 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C778304 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C778524 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C778525 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C778660 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C778741 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C778837 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C779194 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C779314 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C779348 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C779403 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C779705 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C779713 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C779778 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C780114 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C780128 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C780203 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C780759 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C781007 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C781042 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C781064 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C781306 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C781411 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C781485 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C781509 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C781561 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C781948 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C782197 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C782391 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C782392 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C782424 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C782625 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C782670 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C782811 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C782813 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C782899 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C782944 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C782983 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C783006 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C783161 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C783226 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C783314 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C783604 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C783606 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C783623 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C783841 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C783984 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C784084 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C784149 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C784151 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C784152 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C784165 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C784499 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C784588 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C784596 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C784707 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C784736 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C784920 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C784972 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C785071 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C785072 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C785191 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C785203 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C785228 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C785391 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C785525 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C785697 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C785814 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C785894 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C786401 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C786432 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C786571 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C786716 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C786728 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C787013 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C787132 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C787152 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C787204 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C787205 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C787267 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C787408 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C787536 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C787566 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C787626 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C787654 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C787817 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C787817 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C787877 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C787934 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C787997 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C788044 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C788073 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C788114 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C788116 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C788123 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C788158 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C788197 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C788389 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C788463 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C788727 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C788830 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C788905 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C789218 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C789673 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C789673 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C789674 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C789753 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C789878 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C790366 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C790627 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C790987 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C791319 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C791555 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C791801 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C791812 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C792094 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C792128 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C792128 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C792274 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C792643 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C792649 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C792650 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C793081 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C793095 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C793714 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C793719 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C793818 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C793957 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C794099 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C794266 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C794321 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C794323 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C794343 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C794371 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C794372 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C794527 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C795259 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C795866 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C795875 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C796022 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C796370 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C804362 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C804406 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C804703 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C804705 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C805254 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C805800 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C806159 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C806488 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C806570 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C806694 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C807194 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C807360 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C808196 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C808205 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C808461 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C808464 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C808599 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C808697 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C808812 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C808812 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C808816 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C809691 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C809867 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C810346 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C810872 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C811573 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C811839 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C811926 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C811926 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C812626 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C813120 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C813256 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C813391 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C813395 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C814275 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C814275 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C814340 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C814417 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C815430 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C815858 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C815984 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C816322 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C816609 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C816690 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C817115 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C840819 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C908059 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C909828 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C909892 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C914795 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C914795 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C915176 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C915725 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C918393 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C919071 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C919133 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C919414 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C919444 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C919664 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C919665 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C919693 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C919779 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C919878 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C919879 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C920139 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C920332 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C920384 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C920385 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C920386 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C920387 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C920571 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C920672 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C920815 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C920829 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C920839 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C920840 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C920845 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C920846 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C920914 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C920915 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C921090 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C921118 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C921119 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C921122 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C921135 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C921184 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C921188 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C921758 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C921911 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C921958 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C921962 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C921966 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C921980 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C921989 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C922002 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C922014 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C922035 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C922426 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C922744 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C923189 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C923204 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C923232 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C923444 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C923983 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C923990 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924067 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924078 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924140 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924181 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924203 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924257 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924259 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924292 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924294 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924295 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924338 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924341 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924358 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924479 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924536 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924538 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924683 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924684 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924685 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924686 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924779 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C924812 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C925043 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C925325 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C925347 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C925433 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C925433 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C925445 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C925454 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C925501 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C925504 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C925525 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C925809 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C925904 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C925987 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C926092 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C926169 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C926424 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C926520 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C926561 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C926588 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C926603 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C926605 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C926647 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C926689 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C926723 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C926724 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C926799 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C926942 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C927021 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C927146 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C927163 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C927581 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C927687 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C927818 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C927868 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C928733 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C928744 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C928884 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C929047 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C929050 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C929053 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C929063 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C929064 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C929089 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C929111 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C929114 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C929115 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C929123 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C929157 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C929212 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C929228 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C929243 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C929514 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C929527 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C929949 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C929953 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C930025 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C930051 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C930052 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C930067 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C930124 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C930139 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C930254 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C930365 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C930409 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C930505 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C930510 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C931434 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C931839 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C932238 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C932325 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C932366 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C932367 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C932864 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C932977 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C933138 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C933212 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C933722 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C934424 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C934426 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C934459 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C934793 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C935234 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C935560 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C935763 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C935869 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C935899 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C935955 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C936157 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C936170 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C936170 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C936472 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C936721 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C936827 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C937076 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C937293 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C937390 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C937390 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C937814 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C937918 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C938035 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C938190 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C938194 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C939639 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C939902 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C939996 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C940552 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C940560 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C940635 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C941088 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C941097 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C941101 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C941614 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C941704 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C942108 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C942145 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C942200 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C943836 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C943927 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C944517 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C944578 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C944594 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C944681 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C953591 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C954493 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C954675 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C955804 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C979173 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C979186 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C979200 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C979244 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C979255 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C979278 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C843854 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C844309 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C947430 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C944820 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C860264 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C951332 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C951695 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C954194 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C954095 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C954720 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C969825 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C954400 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C943974 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C951362 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C961117 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C957188 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C968758 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C947574 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C959021 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C973076 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C950881 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C951630 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C951653 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C952014 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C953346 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C956465 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C961404 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C961674 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C953344 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C952068 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C951859 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C974072 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C948322 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C952251 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C952723 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C957658 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C962203 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C974071 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C953336 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C952435 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C952722 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C955802 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C959734 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C855499 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C955040 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C854496 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C952738 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C951735 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C957596 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C967996 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C961147 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C855507 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C953333 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C953331 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C953576 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C953865 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C954837 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C956789 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C957313 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C965855 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C956900 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C951663 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C957315 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C961111 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C961149 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C952712 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C960109 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C961113 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C961289 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C953226 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C866694 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C953231 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C954603 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C960112 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C973075 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C946288 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C948866 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C954695 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C954833 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C958079 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C945635 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C946096 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C943860 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C979451 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C957676 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C961811 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C962571 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C969832 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C964079 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C973951 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C973054 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C943973 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C868145 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C956471 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C960237 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C959701 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C940831 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C968231 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C960236 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C948464 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C961150 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C961714 has no time_profile
+02/01 09:30 StandardFiles        DEBUG    FireLocationData: SF11C968998 has no time_profile
+02/01 09:30 StandardFiles        INFO     Successfully wrote 643 fire locations
+02/01 09:30 StandardFiles        TIMERS   Process OutputStandardFiles_FillDefaultData_injected finished in 0.13 seconds
+02/01 09:30 BlueSky              INFO     >>> Execution terminated by user
+02/01 09:30 BlueSky              SUMMARY  Completed in 10.54 seconds
