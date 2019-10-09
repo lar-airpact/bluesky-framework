@@ -29,7 +29,7 @@ end
 
 # Load modules required to run Singularity
 module load go/1.11.5
-module load singularity/3.0.3/go/1.11.5
+module load singularity/3.4.1/go/1.11.5
 
 # Create command string to add bind mounts
 set BIND_CMD = ''
@@ -41,7 +41,7 @@ end
 # Pull the singularity image from "master" branch
 # as built from https://github.com/lar-airpact/bluesky-framework
 # F to overwrite existing (but still uses cache if unchanged)
-singularity pull "shub://${GITHUB_ORG}/${GITHUB_REPO}:${TAG}"
+singularity pull -F "shub://${GITHUB_ORG}/${GITHUB_REPO}:${TAG}"
 
 # Execute BSF Singularity Image -- replacing Ubuntu Server :-)
 set BSF_IMAGE_NAME = "${GITHUB_REPO}_${TAG}.sif"

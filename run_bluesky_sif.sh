@@ -29,7 +29,7 @@ done
 
 # Load modules required to run Singularity
 module load go/1.11.5
-module load singularity/3.0.3/go/1.11.5
+module load singularity/3.4.1/go/1.11.5
 
 # Create command string to add bind mounts
 for writeableDir in ${directoriesWrittenTo[@]}; do
