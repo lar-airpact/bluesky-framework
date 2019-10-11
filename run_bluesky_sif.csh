@@ -20,7 +20,7 @@ set BS_DIR = '/bluesky/dist/bluesky/'
 set YMD = $1
 
 # Declare an array of string with type
-set directoriesWrittenTo=("output" "working" "log" "output/conversion")
+set directoriesWrittenTo=("output" "working" "log" "conversion/output")
  
 # Create writeable directories on host filesystem
 foreach writeableDir ( $directoriesWrittenTo )
