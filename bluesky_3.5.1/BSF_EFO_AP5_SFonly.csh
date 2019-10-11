@@ -28,7 +28,7 @@ endif
 source ~/AIRHOME/run_ap5_day1/set_AIRPACT_fire_season.csh 
 
 # Define directories
-setenv BS_DIR /bluesky/dist/bluesky/
+setenv BS_DIR /bluesky/dist/bluesky
 
 # Changed from /home/airpact5/AIRHOME/run_ap5_day1/emis/fire_orl/transfer
 # AIRPACT runs as "airpact5" user so better to use non hard-coded path

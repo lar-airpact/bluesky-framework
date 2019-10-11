@@ -1,2 +1,2 @@
 Bootstrap: docker
-From: larairpact/bluesky-framework:v1.3
+From: larairpact/bluesky-framework:v1.4
