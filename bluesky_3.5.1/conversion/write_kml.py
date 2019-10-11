@@ -11,7 +11,7 @@ import os
 
 
 #Writing the kml file.
-f = open('fire_locations.kml', 'w')
+f = open('output/fire_locations.kml', 'w')
 f.write("<?xml version='1.0' encoding='UTF-8'?>\n")
 f.write("<kml xmlns='http://earth.google.com/kml/2.1'>\n")
 f.write("<Document>\n")
@@ -59,12 +59,12 @@ f.write("      <href>http://www.clker.com/cliparts/u/T/e/i/e/G/blue-flame-hi.png
 f.write("   </Icon>\n")
 f.write("</IconStyle>\n")
 f.write("</Style>\n")
-f.write("<name>" + 'fire_locations.kml' +"</name>\n")
+f.write("<name>" + 'output/fire_locations.kml' +"</name>\n")
 lastid = 'null'
 
 #pile_fips_list = eval(open('./pile_fips_list.txt').read())
 
-reader = csv.DictReader(open('./fire_locations.csv'))
+reader = csv.DictReader(open('./output/fire_locations.csv'))
 for row in reader:
     country = row['country']
     state = row['state']

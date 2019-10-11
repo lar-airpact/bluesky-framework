@@ -38,7 +38,7 @@ layer1Fracts[4] = 0.467
 layer1Fracts[5] = 0.467
 
 #Create ptday file
-fout = open('./ptday.orl','w')
+fout = open('./output/ptday.orl','w')
 fout.write('#ORL FIREEMIS\n')
 fout.write('#TYPE    Day-specific Point Source Inventory for FIRES\n')
 fout.write('#COUNTRY US\n')
@@ -68,7 +68,7 @@ RX_HEATdict = eval(open('./xwalk_RX_HEAT_adduff.csv').read())
 WF_CONSFdict = eval(open('./xwalk_WF_cons_flam.csv').read())
 RX_CONSFdict = eval(open('./xwalk_RX_cons_flam.csv').read())
 
-locations = csv.DictReader(open('./fire_locations.csv'))
+locations = csv.DictReader(open('./output/fire_locations.csv'))
 
 #pile_fips_list = eval(open('./pile_fips_list.txt').read())
 
