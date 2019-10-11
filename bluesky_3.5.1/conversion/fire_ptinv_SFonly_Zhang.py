@@ -39,7 +39,7 @@ layer1Fracts[4] = 0.467
 layer1Fracts[5] = 0.467
 
 # Create ptinv file
-fout = open('./ptinv.orl','w')
+fout = open('./output/ptinv.orl','w')
 fout.write('#ORL FIRE\n')
 fout.write('#TYPE Point Source Inventory for FIRES\n')
 fout.write('#COUNTRY US\n')
@@ -54,7 +54,7 @@ RX_HEATdict = eval(open('./xwalk_RX_HEAT_adduff.csv').read())
 WF_CONSFdict = eval(open('./xwalk_WF_cons_flam.csv').read())
 RX_CONSFdict = eval(open('./xwalk_RX_cons_flam.csv').read())
 
-locations = csv.DictReader(open('./fire_locations.csv'))
+locations = csv.DictReader(open('./output/fire_locations.csv'))
 
 for row in locations:
     country = row['country']
