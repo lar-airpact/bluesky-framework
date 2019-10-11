@@ -20,7 +20,7 @@ BS_DIR='/bluesky/dist/bluesky/'
 YMD=$1
 
 # Declare an array of string with type
-declare -a directoriesWrittenTo=("output" "working" "log" "conversion")
+declare -a directoriesWrittenTo=("output" "working" "log" "conversion/output")
  
 # Create writeable directories on host filesystem
 for writeableDir in ${directoriesWrittenTo[@]}; do
