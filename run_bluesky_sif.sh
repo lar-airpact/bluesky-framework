@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/sh -l
 
 # Example of using this script:
 # 
