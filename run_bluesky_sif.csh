@@ -29,7 +29,7 @@ end
 
 # Load modules required to run Singularity
 module load go/1.11.5
-module load singularity/3.4.1/go/1.11.5
+module load singularity/3.4.2/go/1.11.5
 
 # Create command string to add bind mounts
 set BIND_CMD = ''
@@ -45,7 +45,7 @@ singularity pull -F "shub://${GITHUB_ORG}/${GITHUB_REPO}:${TAG}"
 
 # Execute BSF Singularity Image -- replacing Ubuntu Server :-)
 set BSF_IMAGE_NAME = "${GITHUB_REPO}_${TAG}.sif"
-singularity exec $BIND_CMD $BSF_IMAGE_NAME "${BS_DIR}BSF_EFO_AP5_SFonly.csh ${YMD}"
+singularity exec $BIND_CMD $BSF_IMAGE_NAME bash -c "${BS_DIR}BSF_EFO_AP5_SFonly.csh ${YMD}"
 
 # echo command for debugging
 echo "singularity exec $BIND_CMD $BSF_IMAGE_NAME ${BS_DIR}BSF_EFO_AP5_SFonly.csh ${YMD}"
