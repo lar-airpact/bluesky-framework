@@ -11,7 +11,7 @@
 
 # hack
 rm /bluesky/dist/bluesky/base/lib/MapScript-5.6.3-py2.7-linux-x86_64.egg/mapscript*
-cp /usr/lib/python2.7/dist-packages/* /bluesky/dist/bluesky/base/lib/MapScript-5.6.3-py2.7-linux-x86_64.egg/
+cp /usr/lib/python2.7/dist-packages/mapscript* /bluesky/dist/bluesky/base/lib/MapScript-5.6.3-py2.7-linux-x86_64.egg/
 
 # to get Joe's scripting to work without Aeolus
 # TODO > in the future, somebody should redesign this without circular dependencies
