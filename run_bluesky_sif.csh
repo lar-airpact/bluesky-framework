@@ -27,9 +27,14 @@ foreach writeableDir ( $directoriesWrittenTo )
    mkdir -p $BSF_OUTPUT_TEMP$writeableDir
 end
 
-# Load modules required to run Singularity
-module load go/1.11.5
-module load singularity/3.4.2/go/1.11.5
+# Load modules required to run Singularity if on Aeolus
+if ( `hostname` == "aeolus.wsu.edu" ) then
+   echo "Loading go and singularity modulefiles into shell environment"
+   module purge
+   module list
+   module load singularity/3.4.2/go/1.11.5
+   module list
+endif
 
 # Create command string to add bind mounts
 set BIND_CMD = ''
