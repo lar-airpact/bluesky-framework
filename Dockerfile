@@ -7,8 +7,11 @@ WORKDIR ${BS_DIR}
 # Add blue sky required files to Docker Container
 COPY bluesky_3.5.1 ./
 
-# Hack
-COPY /usr/lib/python2.7/dist-packages/mapscript.pyc /bluesky/dist/bluesky/base/lib/MapScript-5.6.3-py2.7-linux-x86_64.egg/
+# Install any dependencies
+RUN apt-get install csh
 
-# Run bash.
-CMD ["/bin/bash"]
+# Add the hack job
+COPY hack.sh ./
+
+# Run the hack
+CMD ["/bin/bash", "hack.sh"]
